@@ -1,0 +1,116 @@
+<!doctype html>
+<html>
+<body>
+<h1>Vim Night</h1>
+
+<h2>Why vim?</h2>
+
+<p>You might be wondering what advantages vim provides over other editors like Komodo and IDEs like Eclipse. The main advantages of vim are not user-friendliness or feature density, but ubiquity and efficiency. Almost any Unix system will come with vim installed, so editing text with vim will have much less overhead than installing your favorite IDE. Furthermore, if you ever work remotely over a slow network connection, using a graphical editor can be impractical. Command-line text editors like vim have to send much less data over the network, which makes for a much more productive experience. And with practice, editing text with vim can become at least as efficient as using a graphical editor (think of the time you spend moving your hand to the mouse or the arrow keys.)</p>
+
+<h2>Starting vim</h2>
+
+<pre><code>vim &lt;filename&gt;
+</code></pre>
+
+<p>For editing an existing file or creating a new one.</p>
+
+<h2>Modal editing</h2>
+
+<h3>Insert mode</h3>
+
+<p>Vim starts in normal mode, so press <code>i</code> to enter insert mode. Look for the indicator in the status bar at the bottom.
+Now you can type text to insert it into the document. When you're done inserting text, press Escape to return to normal mode.</p>
+
+<p>In insert mode, vim behaves a lot like a simple graphical editor. At first, it will be easiest to do all your editing in this mode. As you become more experienced with vim and normal mode, you'll begin to use insert mode only for inserting chunks of text.</p>
+
+<h3>Normal mode</h3>
+
+<p>This is the most powerful mode. In normal mode, you issue short (usually several keystrokes) commands to move through the file or cut and paste text.
+Commands are case sensitive.</p>
+
+<p>Common commands include:</p>
+
+<ul>
+<li>arrow keys to move a row or column at a time (or use <code>h</code>, <code>j</code>, <code>k</code>, <code>l</code>)</li>
+<li><code>i</code> to <strong>i</strong>nsert text at the cursor</li>
+<li><code>o</code> to <strong>o</strong>pen a new line below the current one, or (uppercase) <code>O</code> for above</li>
+<li><code>d</code> to cut (or <strong>d</strong>elete) text</li>
+<li><code>y</code> to copy (<strong>y</strong>ank) text</li>
+<li><code>p</code> to <strong>p</strong>aste text</li>
+<li><code>c</code> to <strong>c</strong>hange text (delete and enter insert mode)</li>
+</ul>
+
+<p>Most commands accept a movement specifier to indicate what portion of the text to apply them to.
+Most of these specifiers can be used without a command to simply move the cursor.</p>
+
+<ul>
+<li><code>w</code>: to the beginning of the next word</li>
+<li><code>e</code>: to the end of the current word</li>
+<li><code>b</code>: back to the beginning of the nearest word</li>
+<li><code>0</code>: back to the beginning of the line</li>
+<li><code>$</code>: to the next newline (i.e. selects the rest of the line)</li>
+<li><code>iw</code>: from the beginning of the current word to the beginning of the next word</li>
+<li><code>gg</code>: to the beginning of the file</li>
+<li><code>G</code>: to the end of the file</li>
+</ul>
+
+<p>Commands like delete, yank, and change can be applied to the entire line the cursor is on by doubling the command (i.e. <code>dd</code>, <code>yy</code>, and <code>cc</code> delete, copy, and change a full line, respectively).</p>
+
+<p>To move backward through the text, I can press <code>b</code> repeatedly.
+If the cursor is at the beginning of a word, I can issue <code>dw</code> to delete it. If the cursor is elsewhere in the word, I can issue <code>diw</code> to delete it.</p>
+
+<p>Another possible movement specifier is <code>/</code>, which is used to search through text. When you type <code>/</code>, you'll get a cursor in the status bar. Type a regular expression and press Enter.
+If you're using it without a command, this will move the cursor to the next instance of the expression in the text. Pressing <code>n</code> will move to the next occurrence, and <code>N</code> to the previous one.
+If you're using it with a command, the command will be applied to all the text between the cursor and the beginning of the matched text.</p>
+
+<h4>Other commands</h4>
+
+<p>From normal mode, enter a colon to begin some other important commands. In particular:</p>
+
+<ul>
+<li><code>:w</code> to <strong>w</strong>rite (save) your changes</li>
+<li><code>:q</code> to <strong>q</strong>uit (<code>:wq</code> to save and quit, or <code>:q!</code> to quit without saving changes)</li>
+<li><code>:%s/foo/bar/</code> to <strong>s</strong>ubstitute each match of regular expression <code>foo</code> with <code>bar</code>. The <code>%</code> indicates the range in which to substitute&mdash;in this case the whole file. Leaving out the <code>%</code> will substitute on the current line. You can pass regex flags after the final <code>/</code>, most notably <code>g</code> to replace all instances on each line, as opposed to the default of one per line.</li>
+</ul>
+
+<h3>Visual mode</h3>
+
+<p>Visual mode allows the user to select some text to apply an action to. To enter visual mode, press <code>v</code>. The cursor will stay where it is, and moving it (e.g. with the arrow keys or a motion like <code>$</code> or <code>/foo</code>) will adjust the range of the selection. When you're ready to apply an action, simply enter the action. For example, to delete a word in visual mode, you would position the cursor at the beginning of the word and press <code>v</code>, then <code>e</code> to move to the end of the word, and then <code>d</code> to delete. After the action, vim takes you back to normal mode. To return to normal mode without taking an action, press Escape.</p>
+
+<p>Visual line mode is an alternative visual mode that selects entire lines. To enter visual line mode, type (uppercase) <code>V</code>. This is especially useful for cutting several lines at a time.</p>
+
+<h1><code>vimrc</code></h1>
+
+<p>On startup, vim reads options from the file <code>.vimrc</code> in your home directory (on Linux), if it exists. To customize vim's behavior, you can edit this file. Here are some lines you might want to include:</p>
+
+<p>To enable automatic syntax highlighting:</p>
+
+<pre><code>syntax on
+</code></pre>
+
+<p>To tell vim to automatically indent (e.g. when you press Enter after typing an indented line):</p>
+
+<pre><code>set autoindent
+</code></pre>
+
+<p>To show tabs as four spaces:</p>
+
+<pre><code>set tabstop=4
+set shiftwidth=4
+</code></pre>
+
+<h2>What next?</h2>
+
+<p>It takes time to learn these commands and to become familiar with vim's modes. If you'd like to learn to use vim efficiently, you'll need to use it frequently. This means you should consider using it for writing code, and perhaps for some things you currently use a word processor for.</p>
+
+<p>Find a "cheat sheet" for vim and bookmark it or save it. As you use vim, be aware of how many keystrokes you're using for a given task (note in particular how often you use the arrow keys&mdash;less is usually better). If you notice that you're spending a lot of keystrokes for a task and you suspect vim might have a command to simplify the operation, check the cheat sheet. If there's nothing there, do a web search. If you find a command that helps, redo the task using that command, and try to use the command in the future. This is how you'll become an efficient vim user.</p>
+
+<h2>Resources</h2>
+
+<ul>
+<li><code>vimtutor</code>: a thorough tutorial of vim in vim itself (type <code>vimtutor</code> in a shell)</li>
+<li><a href="https://www.fprintf.net/vimCheatSheet.html">A pretty comprehensive cheat sheet</a></li>
+<li><a href="https://vim-adventures.com/">Vim Adventures</a>: an online adventure game to help you practice vim cursor movement and commands</li>
+</ul>
+</body>
+</html>
