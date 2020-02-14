@@ -1,0 +1,1235 @@
+From dn@cs.brown.edu Wed Nov  9 13:53:13 1994
+Status: RO
+X-VM-v5-Data: ([nil nil nil nil nil nil nil nil nil]
+	["49203" "Wed" "9" "November" "1994" "13:52:58" "-0500" "\"Dawn T. Nicholaus\"" "dn@cs.brown.edu" nil "1219" "The Department of Computer Science Brochure, 1994-1995" "^From:" nil nil "11"])
+Received: from cs.brown.edu (cs.brown.edu [128.148.128.2]) by cs.oberlin.edu (8.6.4/8.6.4) with ESMTP id NAA26611 for <jmankoff@cs.oberlin.edu>; Wed, 9 Nov 1994 13:53:04 -0500
+Received: from daisy (daisy.cs.brown.edu [128.148.38.167]) by cs.brown.edu (8.6.8.1/Bullwinkle1.1) with ESMTP
+	id NAA06118 for <jmankoff@cs.oberlin.edu>; Wed, 9 Nov 1994 13:53:01 -0500
+Received: (dn@localhost) by daisy (8.6.8.1/BrownCS1.0) id NAA02225 for jmankoff@cs.oberlin.edu; Wed, 9 Nov 1994 13:52:58 -0500
+Message-Id: <199411091852.NAA02225@daisy>
+Content-Length: 49203
+From: "Dawn T. Nicholaus" <dn@cs.brown.edu>
+To: jmankoff
+Subject: The Department of Computer Science Brochure, 1994-1995
+Date: Wed, 9 Nov 1994 13:52:58 -0500
+
+The Department of Computer Science Brochure
+
+1994-1995
+
+Brown University
+
+
+The postscript version of this document is available via anonymous ftp
+from ftp.cs.brown.edu:pub/info/brochure.ps.Z, as well as via the
+World Wide Web at URL http://www.cs.brown.edu/programs/.
+
+
+KEY TO CLASS HOURS
+
+Classes meeting M,W,F are 50 
+minutes long; those meeting 
+T,Th are 80 minutes long.
+
+I = Semester I; II = Semester II
+
+A:	 MWF 8:00
+
+B:	  MWF 9:00
+
+C:	 MWF	 10:00
+
+D:	MWF 11:00
+
+E:	MWF 12:00
+
+F:	MWF 1:00
+
+G: 	MWF 2:00
+
+H:	TTh 9:00-10:20
+
+I:	TTh 10:30-11:50
+
+J:	TTh 1:00-2:20
+
+K:	TTh 2:30-3:50
+
+L:	TTh 6:30-7:50
+
+M:	M 3:00-5:30
+
+N:	W 3:00-5:30
+
+O:	 F 3:00-5:30
+Please note:  Class hours are subject to change.
+
+
+
+
+CONTENTS 
+
+
+
+Faculty	 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+Undergraduate Programs . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+Graduate Programs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+
+Courses for Undergraduates	. . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+Courses for Undergraduates and Graduates . . . . . . . . . . . .10
+
+Courses for Graduates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+Facilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+
+Research Areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+The University. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+The Area . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+Application . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+Foreign Students . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+
+Other Questions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+
+
+
+
+
+
+
+COMPUTER SCIENCE
+
+Computer Science combines the intellectual challenge of a 
+new discipline with the excitement of being part of an in-
+novative and rapidly expanding technology. Computer Sci-
+ence has been an active area at Brown for over 25 years and 
+became a department in 1979. The Department occupies  
+the two top floors of Brown's new Center for Information 
+Technology; this striking building houses many of the Uni-
+versity's computing activities, including the Department's 
+innovative instructional computing environment. A 
+number of research computers and approximately 200 net-
+worked workstations with high-resolution graphics provide 
+modern and powerful computing facilities for faculty as 
+well as undergraduate and graduate students. 
+
+The Department of Computer Science offers standard 
+Sc.B. and A.B. concentrations, standard concentrations in   
+Mathematics and Computer Science and in Applied Math-
+ematics and Computer Science, a master's program, and a 
+Ph.D. program. 
+
+The undergraduate program is designed to combine educa-
+tional breadth in the areas of software  and theoretical com-
+puter science with deeper understanding of specialized 
+areas such as software system design, programming lan-
+guages, machine architecture, analysis of algorithms, 
+theory of computation, computer graphics, and artificial in-
+telligence. Undergraduates usually take at least one se-
+mester of faculty-supervised independent study, working 
+either on a project of their own choice or as a member of a 
+team on a faculty-sponsored research project. 
+
+The Department also provides a wealth of opportunities for 
+graduate research in computer science. Graduate students 
+at Brown pursue research in analysis of algorithms, artifi-
+cial intelligence, combinatorial optimization, computa-
+tional complexity, computational geometry, computer 
+graphics, database systems, graph drawing, logic program-
+ming, operating systems, parallel and distributed debug-
+ging, parallel computing, programming environments, 
+programming languages, software engineering, and VLSI 
+algorithms, architectures and systems, in addition to a va-
+riety of application areas. The established coordination be-
+tween the Department of Computer Science and other 
+departments of the University provides an unusual oppor-
+tunity for advanced research both in traditional ``core'' 
+Computer Science and in areas interfacing between Com-
+puter Science and such fields as Applied Mathematics, 
+Cognitive Science, and Engineering. 
+
+  FACULTY
+
+Eugene Charniak, Professor and Chairman, Ph.D., Massa-
+chusetts Institute of Technology, 1972. Artificial intelli-
+gence, natural language processing. 
+
+Thomas L. Dean, Professor, Ph.D., Yale University, 1986. 
+Artificial intelligence, deductive retrieval systems, logic 
+programming, planning, robot problem-solving. 
+
+Paris C. Kanellakis, Professor, Ph.D., Massachusetts Insti-
+tute of Technology, 1981. Databases, theory of computa-
+tion, distributed computing, combinatorial optimization, 
+logic programming. 
+
+Franco P. Preparata, An Wang Professor, Dr. Eng., Uni-
+versity of Rome, 1959. Computational geometry, parallel 
+and VLSI computation, design and analysis of algorithms, 
+computer arithmetics. 
+
+Steven P. Reiss, Professor, Ph.D., Yale University, 1977. 
+Programming environments, software engineering, user in-
+terfaces, visual programming.
+
+John E. Savage, Professor, Ph.D., Massachusetts Institute 
+of Technology, 1965. Computational complexity, parallel 
+and VLSI computation, design and analysis of algorithms. 
+
+Andries van Dam, L. Herbert Ballou University Professor, 
+Ph.D., University of Pennsylvania, 1966. Computer graph-
+ics, multimedia document preparation systems, worksta-
+tions in research and education. 
+
+Peter Wegner, Professor, Ph.D., London University, 1968. 
+Programming languages, software engineering.
+
+Maurice P. Herlihy, Associate Professor, Ph.D., Massa-
+chusetts Institute of Technology, 1984.  Multiprocessor ar-
+chitectures, concurrent and distributed algorithms and data 
+structures.
+
+Philip N. Klein, Associate  Professor, Ph.D., Massachusetts 
+Institute of Technology, 1988. Parallel computation, com-
+binatorial optimization, analysis of algorithms.
+
+Roberto Tamassia, Associate Professor, Ph.D., University 
+of Illinois, 1988. Computational geometry, design and 
+analysis of algorithms, parallel algorithms, dynamic data 
+structures. 
+
+Stanley B. Zdonik Jr., Associate Professor, Ph.D., Massa-
+chusetts Institute of Technology, 1983. Database manage-
+ment systems, software engineering, object-oriented 
+systems. 
+
+Thomas W. Doeppner Jr., Associate Professor (Research), 
+Ph.D., Princeton University, 1977. Operating systems, 
+concurrent and distributed programming. 
+
+John F. Hughes, Assistant Professor, Ph.D., University of 
+California, Berkeley, 1982. Low-dimensional topology, 
+computational geometry, computer graphics. 
+
+Leslie P. Kaelbling, Assistant Professor, Ph.D., Stanford 
+University, 1990. Artificial intelligence, machine learning, 
+reactive systems, robot programming. 
+
+ Robert H. B. Netzer, Assistant Professor, Ph.D., University 
+of Wisconsin, Madison, 1991. Parallel and distributed pro-
+gramming tools, debugging tools, network  computing, flu-
+id mechanics.
+
+Pascal Van Hentenryck, Assistant Professor, Ph.D., Uni-
+versity of Namur (Belgium), 1987. Constraint logic pro-
+gramming, constraint satisfaction, abstract interpretation. 
+
+
+
+  UNDERGRADUATE  PROGRAMS
+
+Undergraduate concentrations in computer science en-
+courage students to take both theoretical courses that de-
+velop logical and mathematical reasoning abilities and 
+practical courses that provide experience in the construc-
+tion,    design,  and   implementation  of   real   computing 
+systems. 
+
+All computer science concentrators are required to take an 
+approved English writing course. Computer programming 
+is a methodical expression of complicated ideas. An appro-
+priate writing course serves not only to sharpen this ability 
+but also to facilitate the description of programs to others, 
+an integral part of the programming task. Each student 
+should meet with the departmental advisor who will direct 
+the student to an appropriate course.
+
+The undergraduate degree requirements were changed as 
+of fall 1993.  They apply to students entering Brown in 
+1993 or later; students entering earlier may fulfill either 
+these requirements or those that were in place when they 
+entered.  The old requirements may be found in previous 
+editions of the Brown Course Announcement.
+
+Requirements for Sc.B.
+
+The standard Sc.B. concentration in Computer Science has 
+as prerequisites:  Mathematics 9 and either 10 or 17 and an 
+approved English writing course.  It requires:  two 
+approved courses in Mathematics or Applied Mathematics 
+beyond Mathematics 10; an approved two-course 
+sequence in Physics, Chemistry, Biology, Engineering, or 
+Geological Sciences; Computer Science 15, 16, 22, 31, 32, 
+and 51; and seven additional courses in Computer Science 
+or related areas, including: one approved CS systems 
+course, one approved CS theory course, one approved CS 
+artificial intelligence course, Engineering 164 or approved 
+hardware course, and one design or independent study 
+course (CS190, CS193, CS194).  CS190 may be used both 
+as a systems course and to satisfy the design or indepen-
+dent study requirement.  CS4 may be substituted for CS15 
+with permission.
+
+Requirements for A.B.
+
+The standard A.B. concentration in Computer Science has 
+as prerequisites Mathematics 9 and either 10 or 17 and an 
+approved English writing course.  It requires:  Computer 
+Science 15, 16, 22, 31, 32, and 51; and two courses from 
+one of the following groupings:  Software Systems:  
+CS123 or CS126 or CS127 or CS169 or CS190; Theory:  
+CS152 and CS157; Artificial Intelligence:  CS141 and 
+(CogSci102, CS148 (pending approval) or a graduate AI 
+course); Computer Systems:  Eng163 or Eng164 or 
+CS169. CS4 may be substituted for CS15 with permission.
+
+Mathematics-Computer Science Sc.B.
+
+The standard Sc.B. program in Mathematics-Computer 
+Science has as prerequisites:  three semesters of calculus, 
+through Math 18 or equivalent; one semester of linear al-
+gebra, i.e. Math 52 or 54; CS15, 16, and 31.  Students are 
+advised to consider taking CS51 as well, for an introduc-
+tion to the theoretical aspects of Computer Science.
+
+Required courses:  Math 153, CS32, three additional 100-
+level Mathematics courses, three 100-level CS courses, of 
+which two are chosen from a sequence (the sequences are 
+described above under the CS A.B. program heading); 
+three additional 100-level courses chosen from Mathe-
+matics, Computer Science, Applied Mathematics, or re-
+lated areas, and approved by the concentration advisor; a 
+semester of indepenedent study in either Mathematics or 
+Computer Science; and either passing or placement out of 
+French, German, or Russian 2, or passing an approved En-
+glish writing course.  At least one of the 100-level Com-
+puter Science courses must be a theoretical course.
+
+It is essential that the concentration be more than the simple 
+union of the Mathematics and Computer Science A.B. pro-
+grams; the program of study should involve an area in 
+which the two fields are clearly related, e.g. computer 
+graphics analysis of mathematical phenomena, mathemat-
+ical models used in artificial intelligence, or mathematical 
+analysis of algorithms.  The student's independent study 
+should be used to produce a final project relating mathe-
+matics and computer science.
+
+Students considering graduate programs in the mathemat-
+ical sciences are strongly urged to develop reading profi-
+ciency in one or more of French, German, or Russian.  All 
+concentrators are expected to develop competence in the 
+methodical written expression of complicated ideas.
+
+Applied Mathematics-Computer Science Sc.B.
+
+The standard Sc.B. concentration in Applied Math-Com-
+puter Science is designed to provide a foundation of basic 
+concepts and methodology of mathematical analysis and 
+computation and to prepare students for advanced work in 
+computer science, applied mathematics, and scientific 
+computation.  Interested students may contact advisors in 
+the Division of Applied Mathematics or the Department of 
+Computer Science.  The concentration has the following 
+specific requirements.
+
+Prerequisites: Mathematics 9, 10, or equivalents.  Required 
+courses:  Math 18 and 52; Applied Math 35, 36, and either 
+Applied Math 117 or 118; CS15, 16, 22, 31, and 32.  (In 
+some cases, substitutions of equivalent courses will be per-
+mitted.)  In addition, students must complete three 100-
+level courses in Applied Math and three 100-level courses 
+in Computer Science as well as a senior seminar in either 
+department.  Concentrators must also complete an ap-
+proved English writing course.
+
+Of the 100-level Applied Mathematics courses, at least two 
+should constitute a standard sequence or address a common 
+theme.  For example, any of the pairs AM117-118, 
+AM120-121, AM125-126, AM133-134, or AM165 to-
+gether with AM166, 167, 168, 169, or 170 would be suit-
+able.  Similarly, at least two of the three additional 100-
+level CS courses must be a theoretical computer science 
+course.  Substitution of courses from Mathematics or Engi-
+neering for courses in Applied Mathematics or  Computer 
+Science may be permitted at the discretion of the concen-
+tration advisor.
+
+
+
+
+
+
+  GRADUATE PROGRAMS
+
+Brown University offers two graduate degrees in computer 
+science: an Sc.M. for those who wish to improve their pro-
+fessional competence in computer science or to prepare for 
+further graduate study, and a Ph.D. Specific requirements 
+for the degrees are outlined below. 
+
+Master of Science
+
+Sc.M. students must satisfactorily complete eight approved 
+courses and either a project or a thesis. Two of the courses 
+may be reading and research courses leading to the project 
+or thesis. Of the remaining six courses, two must be ``prac-
+tice'' courses with a substantial programming requirement, 
+and two must be ``theory'' courses.  This leaves two elec-
+tive courses, which should be chosen so that the overall 
+program provides depth in an area of specialization. The 
+six practice, theory, and elective courses must be 100-level 
+or 200-level courses other than reading and research 
+courses. At least two of these courses must be 200-level 
+courses. 
+
+Doctor of Philosophy
+
+Ph.D. students must satisfy a set of requirements for admis-
+sion to candidacy, fulfill major and minor course require-
+ments, do a thesis proposal, complete a thesis that 
+embodies the results of original research and gives evi-
+dence of high scholarship, and obtain 24 tuition credits.
+
+The requirements for admission to candidacy include a 
+course requirement that encourages study in diverse areas 
+of computer science, written qualifying exams that test 
+breadth of understanding of computer science at the under-
+graduate level, a programming assignment that tests pro-
+gramming ability, and a research project that tests ability to 
+do research.  These requirements must be completed by the 
+end of the student's second year.  Upon satisfying these re-
+quirements the student will be formally admitted to candi-
+dacy for the Ph.D. degree in computer science.
+
+The student must complete one major and two minor 
+course requirements.  Each requirement is normally met by 
+the satisfactory completion of two approved one-semester 
+courses.  The minor requirements are normally one inside 
+and one outside the field of computer science.  The major 
+and minor course requirements are normally completed by 
+the end of the student's third year in residence.
+
+The student's thesis research will normally be done under 
+the supervision of a member of the faculty of the Depart-
+ment of Computer Science.  The thesis will be read by the 
+thesis supervisor and two readers appointed by the graduate 
+committee upon the recommendation of the thesis super-
+visor.  It will be presented at a meeting open to students, 
+faculty, and the public.  Its adequacy will be judged by the 
+thesis supervisor, the readers, and the computer science 
+faculty attending the oral presentation. 
+
+    
+
+
+  COURSES OFFERED
+
+Primarily for Undergraduates
+
+2.  Concepts and Challenges of Computer Science. 
+
+This computer literacy course removes the mystery sur-
+rounding computers by explaining how they work and how 
+they can be used to solve problems.  It introduces spread-
+sheets, word processing, databases, graphics, and other ap-
+plications.  It explores concepts of artificial intelligence  
+such as "can machines think?" as well as the economics of 
+computing, computer viruses, and the role of computers in 
+society.  Programming and writing skills are developed 
+through Hypercard assignments on the Macintosh.  No pre-
+requisite.  Peter Wegner  (II, C hour)
+
+4.  Introduction to Scientific Computing.
+
+An introduction to computer programming in a high-level 
+language. Emphasizes structured problem-solving tech-
+niques and numerical applications of computer program-
+ming. Intended primarily for students concentrating in the 
+sciences who want a single programming course.  No pre-
+requisite.  Migration into the computer science concentra-
+tion is possible from this course with additional work. No 
+credit may be received for  4 if 15 has already been taken.   
+John Savage (II, I hour)
+
+15. Introduction to Computer Science. 
+
+This course is designed both for those without prior pro-
+gramming experience and those familiar with traditional 
+procedural programming in such languages as BASIC and 
+Pascal.  It emphasizes object-oriented programming and 
+design, an effective modern technique for producing mod-
+ular, reusable programs.  The course also introduces the 
+basis of interactive computer graphics and user interface 
+design, and some fundamental data structures and algo-
+rithms that are generally useful in computer science.  Thus 
+the course is meant to serve as an introduction to the field 
+for those who intend to major as well as those who may 
+take only a single course.  No prerequisite.  Credit may be 
+received for 15 after taking 4, but not vice versa.  Andries 
+van Dam (I, K hour)
+
+16.  Introduction to Algorithms and Data Structures.
+
+This course teaches fundamental techniques for problem 
+solving by computer that are relevant to most areas of com-
+puter science, both theoretical and applied. Algorithms and 
+data structures for sorting, searching, graph problems and 
+geometric problems are covered. Basic concepts of parallel 
+computation are also introduced. Programming assign-
+ments conform with the object-oriented methodology in-
+troduced in CS15.  Computer graphics animations are 
+extensively used to visualize algorithms and their perfor-
+mance.  Prerequisite: 15  or  permission.  Roberto Tamassia  
+(II, D hour)
+
+22.  Introduction to Discrete Mathematics. 
+
+The objective of the course is to place on solid foundations 
+the most common structures of computer science, to illus-
+trate proof techniques, and to provide the background for 
+an introductory course in computational theory.  This 
+course develops basic concepts in areas of discrete mathe-
+matics relevant to Computer Science.  It introduces 
+Boolean algebras, logic, set theory, elements of algebraic 
+structures, graph theory, and combinatorics.  Important  ap-
+plications are digital circuits and finite-state automata.  
+Special emphasis will be placed on automata and their re-
+lation to formal languages.  No prerequisite.  Franco 
+Preparata (II, F hour)
+
+31.  Introduction to Computer Systems.  
+
+This course covers the underlying basis of high-level com-
+puting.  It starts with basic hardware design, then explores 
+the architecture and operation of computer systems, in-
+cluding machine representation of data types.  Assembly- 
+language programming is introduced as a concrete interme-
+diate level of programming abstraction and is used to study 
+introductory operating systems concepts.  The implementa-
+tion of machine language is studied.  Prerequisite:  15, 4 or 
+Engin. 3 may be sufficient with independent study of 
+pointers and recursion (consent of instructor required).  
+Pascal Van Hentenryck (I, C hour)
+
+32.  Introduction to Software Engineering.  Not offered 
+94/95)
+
+This course covers advanced programming techniques in-
+cluding object-oriented design, C++, programming envi-
+ronments, the software lifecycle, specifications, user 
+interfaces, Motif, and project management.  The course 
+also introduces the basics of parsing, databases, translation, 
+human factors, interprocess communication and other re-
+lated topics.  Prerequisites:  16 and 31; 22 is recommended.  
+John Hughes (II, K hour)
+
+51.  Models of Computation.  
+
+This course considers, and formally relates, machine and 
+programming language models of computation.  Machine 
+models of algorithms include Turing machines and random 
+access machines.  The programming language Scheme is 
+introduced as a high-level model for describing recursive 
+algorithms.  The equivalence of these is discussed.  The 
+course includes an introduction to issues of decidability/
+undecidability and PTIME-efficiency/NP-completeness.  
+Prerequisites: 15 and 22.  Paris Kanellakis (I, D hour)
+
+92.  Educational Software Seminar.  
+
+This seminar examines the design, production, evaluation 
+and use of educational software and culminates in a six-
+week-long final project in which students design pieces of 
+such software.  Prerequisite:  4 or 15 and a strong interest 
+in education and educational applications of computers. 
+Enrollment limited to 30 students; written permission is re-
+quired.  Andries van Dam (II, J hour)
+
+
+
+For Undergraduates and Graduates
+
+123.  Introduction to Computer Graphics. 
+
+This course offers an in-depth exploration of fundamental 
+concepts in 2D and 3D computer graphics. Topics are 
+structured around a cumulative project that begins with 
+simple raster graphics techniques and includes image pro-
+cessing, geometric transformations, user-interface design, 
+3D interaction and high-quality 3D rendering.  Program-
+ming assignments can be done in either C++ or object-ori-
+ented Pascal.  Prerequisite: 16. Andries van Dam (I, I hour)
+
+126.  Introduction to Compiler Construction.
+
+Lexical analysis, syntactic analysis, semantic analysis, 
+code generation, code optimization, translator writing sys-
+tems. Prerequisites:  22 and 32; 51 is recommended.  
+Robert Netzer (II, D hour)
+
+127.  Database Management Systems. 
+
+Introduction to database structure, organization, and re-
+trieval. Network, relational, and high-level models. Query 
+languages, normalization, file structures, concurrency con-
+trol and recovery algorithms, and distributed databases. 
+Studies of actual systems. Prerequisites: 16, 22, and 31.  
+Stanley Zdonik (I, M hour)
+
+141.  Introduction to Artificial Intelligence. 
+
+How computers can be made to behave ``intelligently.'' 
+Particular topics include: the programming language LISP, 
+natural language parsing, computer vision, search tech-
+niques, AI databases, medical diagnosis, problem solving, 
+and learning. The course stresses the relation between AI 
+theory and its use in working programs. Prerequisites: 16 
+and 22, or CG110 with permission.  Leslie Kaelbling (I, J 
+hour)
+
+148.  Building Intelligent Robots. 
+
+This course addresses the problem of controlling physical 
+systems that operate in dynamic, unpredictable environ-
+ments.  Students will, in pairs, build their own mobile robot 
+and program it to perform a variety of simple tasks.  In ad-
+dition, the course will cover the major paradigms of robot 
+programming and will study architectures for building per-
+ception and control systems for intelligent robots.  Prereq-
+uisites:  16 required, 141 recommended.  Enrollment is 
+limited.  Graduate students may register for graduate credit 
+if they undertake a more advanced final project. Leslie 
+Kaelbling (II, N hour)
+
+152.  Introduction to the Theory of Computation. 
+
+Introduces a broad range of theoretical topics in computer 
+science. Topics covered include finite-state machines and 
+regular expressions, Turing machines, pushdown automata 
+and context-free languages, operations on automata and 
+languages, computability, and computational complexity. 
+Prerequisites: 16, 22, and 51.  Paris Kanellakis (II, G hour)
+
+157.  Design and Analysis of Algorithms. 
+
+A single algorithmic improvement can have a greater im-
+pact on our ability to solve a problem than ten years of in-
+cremental improvements in CPU speed.  In this course we 
+study techniques for designing and analyzing algorithms.  
+Examples of typical problem areas addressed include sci-
+entific computing, operations research, cryptography and 
+cryptoanalysis, and string parsing and matching.  Prerequi-
+sites:  16 and 22.  Philip Klein (I, F hour)
+
+159.  Introduction to Computational Complexity. 
+
+An introductory treatment of theoretical topics related to 
+determining the intrinsic difficulty of solving various prob-
+lems by computer.  Concrete models of computation.  
+Upper and lower bounds for algebraic and combinatorial 
+problems.  Problem classification, including NP-complete-
+ness.  Prerequisites:  16 and 22. John Savage (I, C hour)
+
+169.  Operating Systems. 
+
+Introduction to operating systems principles. Advanced 
+systems programming. I/O programming. Microkernels, 
+distributed systems, computer networks. Each student will 
+write a simple operating system as a term project.  Prereq-
+uisite: 32 or permission of the instructor.  Thomas Doep-
+pner (I, G hour)
+
+190.  Software System Design. 
+
+A course in which students working in teams implement 
+significant software applications. Students learn and prac-
+tice techniques of project management, specification, anal-
+ysis, design, coding, documentation, testing and 
+maintenance. Prerequisite: 32.  Steven Reiss (II, H hour)
+
+193, 194.  Senior Seminar. 
+
+Independent study in various branches of computer sci-
+ence, supervised by the staff. 
+
+195, 196.  Special Topics in Computer Science. 
+
+Independent study in various branches of computer sci-
+ence, supervised by the staff.
+
+
+
+Primarily for Graduates
+
+221.  Topics in Parallel and Distributed Debugging.  Not 
+offered 94/95)
+
+Problems in debugging explicitly parallel, potentially non-
+deterministic message-passing and shared-memory par-
+allel programs. Topics include locating unwanted or 
+unexpected nondeterminacy (race conditions), supporting 
+program re-execution, checking assertions about global 
+program behavior, providing distributed checkpoints and 
+breakpoints, and dealing with the probe effect. Prerequi-
+site:  169 or permission of the instructor. (I, I hr)
+
+222.  Topics in Operating Systems.  
+
+Advanced treatment of topics of current interest in oper-
+ating systems: distributed file systems, distributed oper-
+ating systems, workstation operating systems, parallel 
+computers. Prerequisite: 169.   Thomas Doeppner (II, M 
+hour)
+
+
+
+224.  Interactive Computer Graphics. 
+
+Advanced raster graphics: graphics hardware, fundamental 
+algorithms, and applications. Surface modeling, solids 
+modeling, image synthesis, and animation. Color theory. 
+Emphasis on the use of high-resolution color raster dis-
+plays. Basic linear algebra concepts highly desirable. Pre-
+requisites: 32 and 123, or written permission.  John Hughes 
+(II, I hour)
+
+225.  Advanced Compiler Construction.   (Not offered 94/
+95)
+
+Advanced concepts and techniques.  Code optimization, 
+code generation, compiler models, translator writing sys-
+tems, automatic compiler production.  Prerequisite:  126.  
+(I, to be arranged)
+
+227.  Topics in Database Management. 
+
+In-depth treatment of advanced issues in database manage-
+ment systems. Topics vary from year to year and may in-
+clude database security, distributed databases, query 
+processing, transaction processing, and object-oriented da-
+tabases. Stanley Zdonik (II, to be arranged)
+
+231.  Human Factors and User Interface Design.
+
+This course covers criteria for a good user interface; exper-
+imental methods for evaluating user interfaces; user inter-
+face management systems; multimedia user interfaces; 
+tools for creating user interfaces; groupware.  Emphasis on 
+current research in the area.  Steven Reiss (I, D hour)
+
+234.  Software Engineering.  (Not offered 94/95)
+
+Systems analysis and design, data abstraction, object-ori-
+ented design, exception handling and reporting, implemen-
+tation and testing strategies, including: structured program-
+ming, program specification, verification and testing, de-
+velopment libraries, approaches to project management 
+and documentation, advanced systems programming. Pre-
+requisite: 190.  (I, to be arranged)
+
+241.  Statistical Models in Natural-Language Processing. 
+
+This course covers statistical methods for learning a natural 
+language and applying the knowledge to specific tasks.   
+Topics include:  entropy and cross entropy of a language, 
+hidden Markov models, Viterbi algorithm, forward-back-
+ward algorithm, trigram models, part-of-speech tagging, 
+probabilistic context-free parsing, inside-outside algo-
+rithm, learning probabilistic context-free grammars, statis-
+tical models of syntactic disambiguation, deriving 
+semantic word classes from statistical properties, and 
+word-sense disambiguation.  Prerequisite: 141. Eugene 
+Charniak (I, N hour)
+
+242.  Artificial Intelligence.   (Not offered 94/95)
+
+Advanced treatment of fundamental topics such as: know-
+ledge representations, problem-solving languages, data de-
+pendencies, unusual control structures, and reasoning 
+about uncertainty.  Examples drawn primarily from appli-
+cations in robotics and decision support.  Emphasis on pro-
+gramming AI theories, possibly including a team-effort 
+final project. Prerequisite:  141. (II, I hour)
+
+243.  Topics in Machine Learning.  (Not offered 94/95)
+
+This course covers machine learning from the artificial in-
+telligence perspective, with emphasis on empirical valida-
+tion of learning algorithms.  We consider different learning 
+problems, including concept learning, clustering, speed-up 
+learning and behavior learning.  For each problem we in-
+vestigate a variety of solutions including those from sym-
+bolic AI, neural and genetic algorithms, and standard 
+statistical methods.  Prerequisites:  141, or familiarity with 
+basic logic and probability theory.  (II, to be arranged)
+
+252.  Computational Geometry. 
+
+Algorithms and data structures for fundamental geometric 
+problems in two and three dimensions. Topics include 
+point location, range searching, convex hull, intersection, 
+Voronoi diagrams, graph layout, and dynamic data struc-
+tures. Applications to computer graphics, circuit layout, 
+and computer-aided design are also discussed. Prerequi-
+site: 157 or written permission.   Roberto Tamassia (II, M 
+hour)
+
+256.  Applied Theory of Computation.  (Not offered 94/95)
+
+A variety of advanced topics in the performance of algo-
+rithms on concrete models of machines, including: space-
+time tradeoffs for straight-line algorithms on uniprocessor 
+machines, performance of algorithms for algebraic prob-
+lems and others characterized by concentration properties, 
+concrete complexity measures such as circuit complexity. 
+Also included are algorithm design and analysis for VLSl 
+and parallel machines. Prerequisite: 157. (II, to be ar-
+ranged)
+
+258.  Solving Hard Problems in Combinatorial Optimiza-
+tion:  Theory and Systems.
+
+Theoretically intractable problems arise routinely in indus-
+trial and logistical applications.  A significant body of 
+theory addresses solving problems in combinatorial opti-
+mization.  This course considers the theory and its applica-
+tion in practical systems.  It will explore some of the issues 
+and obstacles encountered in implementing such systems.  
+Emphasis is on the wide variety of techniques and method-
+ologies available, including linear and nonlinear program-
+ming, local search, branch and bound, dynamic 
+programming, and approximation algorithms.  Examples of 
+the kinds of problems to be addressed include scheduling, 
+graph separators, traveling-salesman tours, bin-packing, and 
+satisfiability.  Prerequisite:  programming experience, basic 
+knowledge of linear algebra and algorithms.  Philip Klein 
+and Pascal Van Hentenryck (II, K hour)
+
+273.  Programming Languages. 
+
+The design and analysis of programming languages, pro-
+gramming language paradigms including object-oriented, 
+concurrent, functional and logic programming languages, 
+software components.  Languages include Lisp, ML, Prolog, 
+Ada, CLU, Smalltalk, C++, CSP, Linda.  Topics include 
+data abstraction, types, inheritance, parameter passing, 
+storage management, garbage collection, reflection, seman-
+tics, models of computation.  Prerequisites: 16 and 22 or per-
+mission of the instructor.  Peter Wegner (I, H hour)
+
+274.  Programming Language Theory. (Not offered 94/95)
+
+Theoretical models for the study of programming languages, 
+including semantic models, logic and automatic theorem 
+proving, program verification for sequential and parallel 
+programs, program schemes and flowchart models, mathe-
+matical semantics, fixed points and recursive programs, 
+lambda calculus models, language definition techniques.  
+Prerequisite:  152. 
+
+295a.  Topics in Systems. (Not offered 94/95)
+
+This seminar covers one or more current areas in program-
+ming systems. Recent topics have included user interfaces, 
+parallel programming environments, languages for parallel 
+programming, and program visualization.
+
+295b.  Topics in Advanced Programming Language Im-
+plementation. (Not offered 94/95)
+
+A study of constraint programming languages and tech-
+niques with applications to combinatorial optimization and 
+distributed computing. Topics include constraint-driven 
+computation model, constraint programming for distributed 
+and parallel computing and combinatorial optimization, 
+constraint-solving techniques and algorithms, semantic 
+foundations and implementations of constraint languages, 
+analysis of constraint programs.
+
+295c.  Topics in Theory: Parallel Algorithms and Archi-
+tectures.  (Not offered 94/95)
+
+Technology and models of parallel computation.  Space-
+time tradeoffs and lower-bound theory. Parallel algorithms 
+on fixed interconnections: algorithms on arrays, trees, 
+meshes of trees, hypercube-type networks. Arithmetic 
+computations, VLSI layout theory, routing and wiring algo-
+rithms.
+
+295f.  Parallel Computing:  Models and Algorithms.   (Not 
+offered 94/95)
+
+This course discusses parallel computation in the data-par-
+allel environment.  The algorithmic design refers mainly to 
+the shared-memory model but easily translates to specific 
+interconnections.  The course will focus on sorting, 
+searching, string and numerical computations.
+
+295g.  Topics in Parallel and Distributed Systems. 
+(pending approval)
+
+This course covers some of the fundamental issues in par-
+allel and distributed systems, such as nondeterminacy, 
+global state, naming, programming distributed systems, 
+perturbation caused by instrumentation, distributed agree-
+ment, distributed virtual and shared memory, fault toler-
+ance, and applications.  Topics may vary.  Prerequisite:  169 
+or consent of instructor. Robert Netzer (I, I hour)
+
+297, 298.  Reading and Research. 
+
+I, 297; II, 298; hours to be arranged.
+
+
+
+
+  FACILITIES
+
+The Department houses and manages its own network of 
+computers, with direct connections to the University's cam-
+pus network and the worldwide Internet. Our network con-
+sists of more than 170 color SPARCstation10 Model 41s 
+(including a few multiprocessor SPARC stations) from Sun 
+Microsystems, most of them configured with 32 megabytes 
+of main memory, 524 megabytes of local disk, accelerated 
+graphics hardware, a floppy drive and CD-quality sound.  
+Three of these machines are used as file servers, providing 
+25 gigabytes of disk space.
+
+Our instructional auditorium, a large, banked room seating 
+130, contains 62 of these machines.  Our network also in-
+cludes a 4K CM2 parallel system from Thinking Machines 
+and several HP, DEC, SGI and IBM workstations, as well 
+as numerous Macintoshes.  With the exception of the Macs, 
+these machines run the UNIX operating system and com-
+municate over the Department's Ethernet.  We also provide 
+about 60 terminals and a variety of graphics devices, plot-
+ters, and laser printers to the user community.  The instruc-
+tional lab is used for a variety of purposes including 
+lectures, demonstrations, educational research, and pro-
+gramming assignments, and is generally available from 9 
+am to 2 am most days.   Courses taught in this facility range 
+from introductory concepts in programming and algo-
+rithms through more advanced topics in computer graphics, 
+operating systems, compilers, databases and software engi-
+neering.  Supporting our educational activities is a com-
+plete audiovisual system integrated with the workstations. 
+The Department has also developed and implemented an 
+X-based software package by which an instructor can 
+broadcast images from one system to all the others in the 
+lab.
+
+In addition to the staff-supported facilities described above, 
+equipment is maintained by individual research labs.  The 
+graphics group has a set of special-purpose graphics ma-
+chines and man-machine interface devices for its virtual-
+reality lab.  The artificial intelligence group maintains three 
+mobile robots as well as a variety of cameras and sensors 
+used for research in perception.
+
+  RESEARCH AREAS 
+
+There are active research projects involving faculty and 
+graduate students in the areas described below. Interaction 
+among people working in various areas is strongly encour-
+aged; indeed, many research projects span several areas. 
+
+Analysis of Algorithms 
+
+The analysis of algorithms involves deriving accurate 
+descriptions of time and space requirements of particular 
+computer programs, and requires not only expertise in 
+mathematical analysis but also an understanding of the 
+properties of computers and programming languages. 
+Various algorithms from many application areas are being 
+studied, with an emphasis on practical applicability and 
+methods of analysis. 
+
+Artificial Intelligence 
+
+Artificial intelligence is concerned with the creation of 
+algorithms that behave `intelligently.' Research in this area 
+is particularly focused on language comprehension (for 
+example, understanding English), planning (for example, 
+coordinating assembly and machining tasks in an 
+automated factory), plan recognition (determining an 
+agent's plans and the basis for his or her actions), robotics 
+(using sensor information to enable a mobile robot to 
+navigate through its environment) and various learning 
+problems including reinforcement learning (learning action 
+strategies by trial and error) and concept learning by 
+example (for example, learning maps or grammars). A 
+common theme is applying mathematical tools (probability 
+theory, control theory, or formal learning theory) to 
+practical problems. 
+
+Combinatorial Optimization 
+
+Our research in this area concerns the solution of problems 
+in network design and analysis, such as finding the shortest 
+path in the network, the best way to route commodities 
+through a network, or the cheapest network design accom-
+modating given requirements. Other problem areas include 
+task scheduling and data clustering.
+
+Computational Complexity
+
+Research is concerned with limits on the performance of 
+various types of computers in solving particular concrete 
+problems. Such limits are often expressed as tradeoffs in-
+volving computing time, number of I/O accesses, storage 
+space, and amount of parallelism. This research is comple-
+mentary to analysis of algorithms and can be used to dem-
+onstrate the optimality of algorithms. 
+
+Computational Geometry 
+
+Geometric structures are the underlying model of several 
+important applications, including VLSI layout, robotics, 
+graphics, and CAD/CAM. We are investigating efficient 
+algorithms for several geometric problems in two and three 
+dimensions, in particular point location, ray shooting, 
+shortest paths, visibility, and hidden-surface elimination. 
+
+Computer Graphics 
+
+Computer graphics research emphasizes high-performance 
+raster graphics for modeling, animation, simulation, and 
+scientific visualization applications.    Current  projects 
+include  design  and  implementation  of  three-dimensional 
+graphics systems and user interfaces, the application of 
+user-controlled animated graphics to education, and 
+building interactive illustrations for electronic books.
+
+Concurrent Data Structures and Architectures
+
+The goal of this research is to develop a systematic theory 
+of data structures, algorithms and architectures for modern 
+concurrent and distributed systems.  We are interested in 
+making them more effective and also in understanding their 
+inherent limitations.  Topics of interest include characteriz-
+ing the expressive power of hardware synchronization 
+primitives, effective architectural support for lock-free syn-
+chronization, algorithms for low-contention data structures 
+and many others.
+
+Database Systems 
+
+Database systems research has begun to address new appli-
+cation areas. We have an active interest in database systems 
+for design environments including areas such as CAD/
+CAM, programming environments, and integrated office 
+information systems. We are designing and building an 
+advanced object-oriented database system as well as 
+graphical interfaces for this style of system. We are also 
+interested in the relationship between databases and 
+knowledge bases and are investigating the use of logic 
+programming in a database context. 
+
+Graph Drawing 
+
+Several data-presentation problems involve drawing graphs 
+so that they are easy to read and understand. Examples 
+include circuit schematics and diagrams for computer-aided 
+software engineering. We are investigating  algorithms  for  
+constructing  aesthetically pleasing drawings  of graphs, and 
+we are also developing graph-drawing tools for software 
+engineering and project management. 
+
+Logic Programming 
+
+Research on this topic ranges from the semantics of logic 
+programming languages to the design, implementation, and 
+application of new languages. Theoretical topics include the 
+study of the expressive power, implicit parallelism, and 
+complexity of logic programming techniques. Applied 
+topics include the design and implementation of constraint 
+logic programming languages whose primitive operations 
+are constraint solving and constraint entailment. Applica-
+tions to databases, rewrite systems, rapid prototyping, 
+combinatorial optimization, hardware design and decision-
+support systems are stressed. 
+
+Operating Systems 
+
+Our research in operating systems stresses practical issues 
+involved in managing resources and providing a wide set of 
+user services on a large modern computer system, as well as 
+designing systems for the support of highly interactive 
+workstations. Of particular interest are issues involving 
+parallel processors. The UNIX operating system plays an 
+important role in this research and is frequently used to test 
+new ideas. 
+
+Parallel and Distributed Debugging
+
+We address low-level problems in debugging nondetermin-
+istic programs and efficiently supporting new debugging 
+paradigms that often require large amounts of runtime infor-
+mation. We are developing techniques for pinpointing bugs 
+that cause unwanted race conditions and optimal tracing 
+techniques for providing deterministic re-execution. Other 
+work includes monitoring and tracing strategies that use 
+novel combinations of static and dynamic program informa-
+tion to make informed tracing decisions and keep overhead 
+low.
+
+Parallel Computation 
+
+Research on parallel computation has theoretical and exper-
+imental components.  Theoretical components  include  the  
+study  of  complexity  models, I/O computations, and 
+parallel algorithms. Experimental components include 
+software support for medium-grained parallelism, friendly 
+parallel computing over networks of heterogeneous 
+machines, and application of parallelism to VLSI layout 
+design. 
+
+Programming Environments 
+
+Work in programming environments includes research into 
+underlying support methodologies such as extended 
+attribute grammars, integration mechanisms and incre-
+mental analysis, development of appropriate database, user 
+interface and other support tools, and prototyping program-
+ming environments to make effective use of workstations 
+and parallel machines.
+
+Programming Languages 
+
+Research in programming languages includes work on 
+object-oriented and distributed programming languages, 
+models of types in programming languages and object-
+oriented databases. An integrated language and environment 
+for programming in the large is being developed that 
+includes graphical interfaces for workstations and object-
+oriented databases. 
+
+Software Engineering 
+
+Software engineering is the study of effective ways to 
+design, implement, and maintain extremely large software 
+systems. Our research stresses the specification and imple-
+mentation of software tools, especially those that exploit the 
+powerful capabilities available in modern graphics-based 
+workstations and database systems. 
+
+  THE UNIVERSITY 
+
+Brown University is the seventh oldest institution of higher 
+learning in America. It was founded in 1764 as Rhode 
+Island College in Warren, RI, and moved in 1770 to its 
+present location on College Hill overlooking the capital 
+city of Providence. In 1804, in recognition of a gift, it took 
+its present name of Brown University. In 1971 Pembroke 
+College, the women's college associated with Brown, was 
+merged with the University. 
+
+Early in the present century, Brown began to speak of itself 
+as a university college, a phrase still current and meant to 
+suggest that the school has retained something of the 
+intimacy of a college even while it has become a major 
+center for research and advanced studies. The present 
+University consists of the undergraduate College, the 
+Graduate School, and the School of Medicine. There are 
+about 520 regular faculty members, 5500 undergraduates, 
+and 1350 graduate students.
+
+  THE AREA 
+
+Brown University is located in a pleasant residential area of 
+Providence, a medium-sized city one hour from Boston and 
+three hours from New York.  Seminars, colloquia and other 
+events are presented by the University and the nearby 
+Rhode Island School of Design. Many cultural resources 
+are available, including concerts, theater, museums and art 
+galleries.  Recreational activities are numerous and include 
+excellent University athletic facilities, both indoor and out-
+door, Rhode Island's many beaches, and New England ski 
+areas.  Miller Residence Hall, on the Pembroke Campus, 
+offers dormitory accommodations, and many rooms and 
+apartments are available within walking distance of the 
+University.
+
+  APPLICATION 
+
+Applications may be obtained from and should be submit-
+ted to:	      
+
+Graduate School Admissions Office 
+
+Brown University, Box 1867 
+
+Providence, RI 02912-1867 
+
+
+
+The deadline for receipt of applications (including GRE 
+scores and letters of recommendation) for the fall term is 
+January 1. Applications will be considered after this date, 
+but the late applicant may be at a disadvantage with regard 
+to the awarding of financial support. 
+
+Applicants are urged to express clearly their area or areas 
+of academic and research interest; applicants who do not 
+provide such information are difficult to evaluate for ad-
+mission. 
+
+A number of University Fellowships, Teaching Assistant-
+ships, Research Assistantships, and Proctorships are avail-
+able for Ph.D. candidates. These positions cover the nine-
+month academic year and include a combination of tuition 
+remission and stipend. Assistantships and Proctorships re-
+quire a maximum of 20 hours per week teaching or re-
+search. In addition, some Research Assistantships cover 
+the summer months. 
+
+  FOREIGN STUDENTS 
+
+Information for foreign students regarding visas, financial 
+policies, etc. is available from the Graduate School. It 
+should be noted that foreign students whose native lan-
+guage is other than English cannot be admitted until the re-
+sults of the TOEFL examination have been received.    
+
+  OTHER QUESTIONS 
+
+For further information on the feasibility of pursuing your 
+academic/research interests at Brown, detailed course de-
+scriptions, specific financial awards for which you may 
+qualify, or any other matters that may assist you in deciding 
+to undertake graduate work and selecting a graduate 
+school, please contact: 
+
+	Graduate Advisor 
+
+Department of Computer Science 
+
+Brown University, Box 1910 
+
+Providence, RI 02912-1910 
+
+Telephone: 401-863-7600 
+
+Email: gradinfo@cs.brown.edu 
+
+Fax: 401-863-7657
+
+
+
+Further information is available via anonymous ftp from 
+ftp.cs.brown.edu:pub/info in the postscript file 
+grad.requirements.ps.Z.  Graduate applications informa-
+tion can be accessed from gradapp-faq.Z and this docu-
+ment from brochure.ps.Z, as well as via World Wide Web  
+http://www.cs.brown.edu/programs/.
+
+

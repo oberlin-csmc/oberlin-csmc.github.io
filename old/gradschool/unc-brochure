@@ -1,0 +1,1761 @@
+From admit@cs.unc.edu Mon Jun 27 15:08:09 1994
+Status: RO
+X-VM-v5-Data: ([nil nil nil nil nil nil nil nil nil]
+	["78545" "Mon" "27" "June" "1994" "15:07:56" "-0400" "UNC Admissions" "admit@cs.unc.edu" nil "1742" "Re: Gradschool Application & Information" "^From:" nil nil "6"])
+Received: from mcenroe.cs.unc.edu (mcenroe.cs.unc.edu [152.2.128.184]) by cs.oberlin.edu (8.6.4/8.6.4) with ESMTP id PAA26001 for <jmankoff@cs.oberlin.edu>; Mon, 27 Jun 1994 15:08:02 -0400
+Received: from tybee.cs.unc.edu by mcenroe.cs.unc.edu (8.6.9/UNC_06_21_94)
+	id PAA02508; Mon, 27 Jun 1994 15:07:59 -0400
+Received: by tybee.cs.unc.edu (8.6.9/UNC_06_21_94)
+	id PAA09169; Mon, 27 Jun 1994 15:07:58 -0400
+In-Reply-To: <199406241622.MAA06103@cs.oberlin.edu>
+Message-ID: <Pine.3.89.9406271551.G9114-0100000@tybee>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+From: UNC Admissions <admit@cs.unc.edu>
+To: Jen Mankoff <jmankoff>
+Subject: Re: Gradschool Application & Information
+Date: Mon, 27 Jun 1994 15:07:56 -0400 (EDT)
+
+******************************************************************
+
+If, after reading this brochure you cannot find answers to all of 
+your questions, or need more information, please contact Janet 
+Jones, Student Services Manager, at 919-962-1900 Mondays through 
+Fridays from 3-5 p.m. EST, or send e-mail to admit@cs.unc.edu.
+
+******************************************************************
+
+		DEPARTMENT OF COMPUTER SCIENCE
+			GRADUATE STUDIES
+
+		THE UNIVERSITY OF NORTH CAROLINA
+			AT CHAPEL HILL
+		            1994
+
+	   	      Updated:	12/7/93
+		      Revised:   5/9/94
+
+****CONTENTS****
+Environment
+	The Research Triangle
+	Our Department
+Research
+The Faculty
+Adjunct Faculty
+Facilities
+	General Computing Environment
+	Research Laboratories
+	Libraries
+Admissions and Graduate Studies
+	Student Distribution
+	Admissions Requirements
+	Degree Programs and Requirements
+	Financial Support
+Courses for Graduate Students
+M.S. Requirements
+Ph.D. Requirements
+Faculty Internet E-mail Addresses
+For Further Information
+
+
+
+
+****ENVIRONMENT****
+Chapel Hill, a town of about 40,000 located in central North 
+Carolina, blends a mild climate, a relaxed Southern 
+atmosphere, and the charm of what is often called the 
+nation's "perfect college town," with such cultural 
+advantages as excellent theater and music, an art museum, and 
+a planetarium.  Sports abound, and the Carolina beaches, Cape 
+Hatteras, Great Smoky Mountains National Park, and the Blue 
+Ridge Mountains are only a few hours away.
+
+The University of North Carolina at Chapel Hill was the first 
+state university to open its doors, in 1795.  The 689-acre 
+central campus is also among the most beautiful in the 
+country.  UNC-CH is consistently ranked one of the nation's 
+very best major public universities.  In 1991, for example, 
+U.S. News and World Report ranked UNC-CH fifth overall among 
+public institutions and 25th among all national universities.  
+Of the approximately 24,000 students enrolled, almost 9,000 
+are graduate and professional students.  
+
+THE RESEARCH TRIANGLE
+The Research Triangle of North Carolina is formed by UNC-CH, 
+Duke University in Durham, and North Carolina State 
+University (NC State) in Raleigh.  The universities have a 
+combined enrollment of approximately 60,000 students; have 
+libraries with more than eight million volumes with inter-
+connected catalogues; and have national prominence in a 
+variety of disciplines.
+
+At the center of the Triangle lies Research Triangle Park 
+(RTP), set in 6,800 acres of North Carolina pinelands.  RTP 
+is one of the largest research parks in the United States, 
+and includes more than 50 corporations, government agencies, 
+and institutions employing approximately 34,000 people.  
+Research and development in microelectronics, computers, and 
+communications are conducted by companies such as IBM, Data 
+General, Northern Telecom, Bell Northern Research, and 
+General Electric.  The collaboration between the academic and 
+corporate communities creates a synergy unsurpassed in the 
+scientific arena.  The Park is located within 20 minutes of 
+the triangle universities, and five miles from Raleigh-Durham 
+International Airport.
+
+MCNC, also located in the Park, is a private, non-profit 
+corporation working with North Carolina universities and 
+industry on research and education in microelectronics, 
+communications, and supercomputing.  Campuses connected 
+through MCNC's interactive audio/video network include Duke, 
+UNC-CH, NC State, East Carolina, UNC-Asheville, North 
+Carolina A&T State, Winston-Salem State, UNC-Charlotte, UNC-
+Wilmington, Appalachian State, the four medical schools, and 
+Research Triangle Institute.  Six additional universities 
+will be connected in 1994.  
+
+The Department's growth is a consequence of the regionUs 
+economic development.  We see our task as contributing to the 
+research and educational needs of a growing regional 
+concentration of high technology, and to the national and 
+international computer science communities.
+
+
+OUR DEPARTMENT
+The Department of Computer Science at UNC-CH was one of the 
+first in the United States to be established as an 
+independent department, in 1964.  Its primary missions are 
+graduate teaching and research, and it offers graduate degree 
+programs only.  Most of our 150 students are full time.  
+Undergraduate instruction is limited to service courses and 
+to participating in the Computer Sciences Options of the 
+Applied Sciences and Mathematical Sciences Curricula.  
+
+Two closely related graduate degrees are offered.  The Ph.D. 
+program prepares teachers and researchers for positions with 
+universities, government, and industry.  The M.S. program 
+prepares highly competent and broadly skilled practitioners.  
+The curricula are oriented toward the design and application 
+of real computer systems and toward that portion of theory 
+that guides and supports practice.
+
+The Computer Science Students Association sponsors both 
+professional and social events and represents the students in 
+departmental matters.  Its president is a voting member at 
+faculty meetings.  There is much interaction between students 
+and faculty, and students contribute to nearly every aspect 
+of the Department's operation.
+
+
+
+
+***RESEARCH****
+The Department is actively engaged in research 
+on a broad range of topics.  The index provided below should 
+serve as a pointer to faculty members who have research 
+interests in these topics.
+
+Algorithms and data structures
+Anderson, Halton, Hedlund, Jeffay, Manocha, Nyland, Plaisted, 
+Prins, Singh, Stanat
+
+Computer architectures
+Brooks, Chi, Halton, Hedlund, Mago, Marshall, Molnar, Poulton, 
+Singh, Wright
+
+Computer graphics, image processing, vision
+Beard, Bishop, Brooks, Burbeck, Coggins, Eyles, Fuchs, Halton, 
+Lastra, Manocha, Marshall, Molnar, Pizer, Poulton, Rolland, 
+Rosenman, Wright
+
+Computer-supported cooperative work
+Abdel-Wahab, Beard, Calingaert, Dewan, Jeffay, D. K. Smith, F. D. 
+Smith, J. B. Smith, Stotts, Weiss
+
+Distributed systems
+Abdel-Wahab, Anderson, Calingaert, Dewan, Groves, Jeffay, 
+F. D. Smith, Stotts
+
+Functional and logic programming
+Mago, Plaisted, Prins, Stanat
+
+Geometric and solid modeling
+Brooks, Halton, Manocha, Molnar, Pizer, Wright
+
+Human-machine interaction
+Beard, Bishop, Brooks, Burbeck, Calingaert, Chi, Coggins, Dewan, 
+Eyles, Fuchs, Pizer, Rolland, Rosenman, D. K. Smith, F. D. Smith, 
+J. B. Smith, Stotts, Wright
+
+Monte Carlo methods
+Halton
+
+Neural networks
+Marshall, Pizer
+
+Parallel computing
+Anderson, Chi, Eyles, Fuchs, Halton, Hedlund, Lastra, Mago, 
+Manocha, Marshall, Molnar, Nyland, Poulton, Prins, Singh, Stanat
+
+Real-time systems
+Abdel-Wahab, Chi, Fuchs, Jeffay, Rosenman, F. D. Smith
+
+Software engineering and environments
+Coggins, Dewan, Groves, Jeffay, Nyland, Prins, D. K. Smith, F. D. 
+Smith, J. B. Smith, Stotts
+
+Text processing
+Dewan, D. K. Smith, J. B. Smith, Stotts, Weiss
+
+Theorem proving and term rewriting
+Plaisted
+
+VLSI systems and design
+Bishop, Chi, Eyles, Fuchs, Hedlund, Marshall, Molnar, 
+Poulton, Singh
+
+
+
+****THE FACULTY****
+James Anderson, Assistant Professor,  Ph.D. 1990, Texas-Austin.  
+Distributed and concurrent algorithms; fault-tolerant computing; 
+real-time systems; formal methods.
+
+Gary Bishop, Research Assoc. Professor, Ph.D. 1984, UNC-
+Chapel Hill. Hardware and software for man-machine 
+interaction; 3D interactive computer graphics.
+
+Frederick P. Brooks, Jr., Kenan Professor, Ph.D. 1956, 
+Harvard.  3D interactive computer graphics; virtual worlds; 
+molecular graphics; computer architecture.
+
+Christina Burbeck, Research Assoc. Professor, Ph.D. 1981, California-Irvine.  
+Visual perception; visual object representation; visual background 
+representation; virtual worlds.
+ 
+Peter Calingaert, Professor, Ph.D. 1955, Harvard.  Computer-
+supported cooperative work; communication, control, 
+translator, and application software systems.
+
+Vernon L. Chi,  Research Lecturer and Director of the 
+Microelectronic Systems Laboratory, B.S. 1964, Antioch.  
+Hardware design environments; system engineering and 
+integration; microtechnology; signal and clock distribution.
+
+James M. Coggins, Assoc. Professor and Assoc. Chairman for 
+Academic Affairs, Ph.D. 1983, Michigan State.  Artificial 
+visual systems; pattern recognition; computer graphics; 
+human-computer interaction; object-oriented design and 
+programming.
+
+Prasun Dewan, Assoc. Professor, Ph.D. 1986, Wisconsin-
+Madison.  User interfaces, distributed collaboration, 
+software engineering environments, and object-oriented 
+databases. 
+
+John G. Eyles, Research Asst. Professor, Ph.D. 1982, UNC-
+Chapel Hill. Graphics architectures; rapid system 
+prototyping; virtual worlds; VLSI design.
+
+Henry Fuchs, Federico Gil Professor, Ph.D. 1975, Utah.  High-
+performance graphics hardware; 3D medical imaging; head-
+mounted display and virtual environments.
+
+John H. Halton, Professor, D.Phil. 1960, Oxford.  
+Applications of combinatorial and probabilistic methods, and 
+scientific and mathematical analysis, to computational, 
+scientific, and engineering problems.
+
+Kye S. Hedlund, Assoc. Professor, Ph.D. 1982, Purdue.  
+Computer-aided design; computer architecture; algorithm 
+design and analysis; parallel processing.
+
+Kevin Jeffay, Asst. Professor, Ph.D. 1989, Washington.  Real-
+time systems; operating systems; distributed systems; 
+multimedia networking; computer-supported cooperative work; 
+performance evaluation.
+
+Anselmo A. Lastra, Research Asst. Professor, Ph.D. 1988, 
+Duke.  Computer graphics; parallel computing.
+
+Gyula A. Mago, Professor, Ph.D. 1970, Cambridge.  Parallel 
+computation; computer architecture; programming languages.
+
+Dinesh Manocha, Asst. Professor, Ph.D. 1992, California-
+Berkeley.  Geometric and solid modeling; physical-based 
+modeling; computer graphics; symbolic and scientific 
+computation.
+
+Jonathan A. Marshall, Asst. Professor, Ph.D. 1989, Boston.  
+Neural network modeling; visual computation and perception; 
+learning, adaptation, and self-organization; computational 
+neuroscience.
+
+Ralph A. Mason, Lecturer and Assoc. Chairman for 
+Administration, M.B.A. 1976, American.  Resource analysis; 
+engineering economics.
+
+Steven E. Molnar, Research Asst. Professor, Ph.D. 1991, UNC-
+Chapel Hill.  Architectures for real-time computer graphics; 
+VLSI-based system design; parallel rendering algorithms.
+
+Lars S. Nyland, Research Asst. Professor, Ph.D. 1991, Duke.  
+High-level programming languages; parallel algorithms; 
+program transformation techniques.
+
+Stephen M. Pizer, Kenan Professor, Ph.D. 1967, Harvard.  
+Image analysis and display; human and computer vision; 
+graphics; numerical computing; medical imaging.
+
+David A. Plaisted, Professor, Ph.D. 1976, Stanford.  Term 
+rewriting systems; mechanical theorem proving; logic 
+programming; algorithms. 
+
+John Poulton, Research Assoc. Professor, Ph.D. 1980, UNC-
+Chapel Hill.  Graphics architectures; VLSI-based system 
+design; design tools; rapid system prototyping.
+
+Jan F. Prins, Assoc. Professor, Ph.D. 1987, Cornell.  High-
+level programming languages; formal techniques in program 
+development; highly parallel computing.  
+
+Jannick P. Rolland, Research Asst. Professor, Ph.D. 1990, 
+Arizona-Tucson. Image quality for medical imaging; perception 
+in virtual environments; optics for head-mounted displays.
+
+Raj K. Singh, Research Asst. Professor, Ph.D. 1986, SUNY-
+Albany.  High-performance systems design and integration; CAD 
+tools; parallel architectures and algorithms; VLSI design and 
+fabrication; networking; computational biology.
+
+Dana Kay Smith, Research Asst. Professor, Ph.D. 1987, Yale.  
+Human-computer interaction; computer-supported cooperative 
+work; interface design; computer training.
+
+John B. Smith, Assoc. Professor, Ph.D. 1970, UNC-Chapel Hill.  
+Computer-supported cooperative work; hypermedia systems; 
+human-computer interaction; text and natural language 
+processing. 
+
+Donald F. Stanat, Professor, Ph.D. 1966, Michigan.  Algorithm 
+design and analysis; data structures; program verification; 
+functional programming languages.
+
+David Stotts, Assoc. Professor, Ph.D. 1985, Virginia.  
+Computer-supported cooperative work; hypermedia; software 
+engineering and formal methods; programming languages and 
+concurrency. 
+
+Jeannie M. Walsh, Lecturer, M.S. 1984, Oklahoma State.  
+Computer education.
+
+Stephen F. Weiss, Professor and Chairman, Ph.D. 1970, 
+Cornell.  Information storage and retrieval; natural language 
+processing; communications and distributed systems; computer-
+supported cooperative work.
+
+Turner Whitted, Research Professor, Ph.D. 1978, NC State.  
+Computer graphics. 
+
+William V. Wright, Research Professor, Ph.D. 1972, UNC-Chapel 
+Hill.  Interactive systems for scientific research; 
+visualization of scientific data; architecture and 
+implementation of computing systems.
+
+
+ADJUNCT FACULTY
+Hussein Abdel-Wahab, Adjunct Assoc. Professor, Ph.D. 1976, 
+Waterloo.  Computer-supported cooperative work; 
+communications software and distributed systems; operating 
+systems and networking.
+
+David V. Beard, Adjunct Asst. Professor, Ph.D. 1985, 
+Michigan.  Human-computer interaction with applications in 
+radiology; practical GOMS modeling; 2D/3D navigation and 
+manipulation; multiparameter image visualization.
+
+William E. Groves, Adjunct Assoc. Professor, Ph.D. 1962, 
+Illinois-Urbana-Champaign.  Distributed systems; expert 
+systems; scientific computing.  
+
+Julian Rosenman, Adjunct  Assoc. Professor, M.D. 1977, 
+Southwestern; Ph.D. 1971, Texas-Austin.  Computer graphics 
+for treatment of cancer patients; contrast enhancement of 
+poor quality x-rays.
+
+F. Donelson Smith, Adjunct Assoc. Professor, Ph.D. 1978, UNC-
+Chapel Hill.  Distributed systems; computer-supported 
+cooperative work; operating systems; computer networks.
+
+
+
+
+****CONTRACTS AND GRANTS****
+
+Principal                        Funding Agency                 Project Title
+Investigators
+
+J. Anderson		   National Science Foundation	  Synchronization
+							  Mechanisms for High
+							  Performance 
+							  Computing
+
+J. Anderson		   UNC at Chapel Hill		  Junior Faculty 
+							  Development
+
+F. P. Brooks, Jr.          Defense Advanced Research      Advanced Technology
+H. Fuchs                   Projects Agency                for Portable Personal
+                                                          Visualization
+
+F. P. Brooks, Jr.          National Institutes of         Interactive Graphics
+                           Health                         for Molecular Studies
+
+V. L. Chi                  Corporation for National       VISTAnet:  A Very
+H. Fuchs                   Research Initiatives           High Bandwidth
+J. Rosenman                                               Prototype Network for
+                                                          Interactive 3D
+                                                          Medical Imaging
+
+V. L. Chi                  National Institutes of         CISE Institutional
+S. M. Schwab               Health                         Infrastructure
+S. F. Weiss                                               Program for
+                                                          Prototyping Complete
+                                                          Digital Systems
+
+V. L. Chi                  National Institutes of         Clock Planes for
+                           Health                         Synchronism Systems
+                                                          on PC Boards
+
+J. M. Coggins              National Institutes of         Pattern Analysis
+                           Health                         of Corneal Typography
+
+H. Fuchs                   National Science Foundation/   Supercomputing
+J. Poulton                 Defense Advanced Research      Power for
+                           Projects Agency                Interactive
+                                                          Visualization
+
+H. Fuchs                   National Science Foundation/   Science and
+F. P. Brooks, Jr.          Defense Advanced Research      Technology Research
+V. L. Chi                  Projects Agency                Center in Computer
+                                                          Graphics and
+                                                          Scientific
+                                                          Visualization
+
+H. Fuchs                   National Science Foundation    Workshop on
+G. Bishop                                                 Virtual Reality
+
+K. Jeffay                  National Science Foundation    Processor and Resource
+                                                          Allocation Problems
+                                                          in Hard-Real-Time
+                                                          Systems:  Theory and
+                                                          Practice
+
+K. Jeffay                  UNC at Chapel HIll             An Empirical
+                                                          Determination of the
+                                                          Limits of Human
+                                                          Perception of
+                                                          Properties of Digital
+                                                          Audio and Video
+                                                          Streams
+
+K. Jeffay                  UNC at Chapel HIll             Faculty Research Award
+
+D. Manocha                 UNC at Chapel HIll             Junior Faculty
+                                                          Development Award
+
+J. A. Marshall             National Eye Institute         Development of
+                                                          Non-Local Cortical
+                                                          Circuits for 3D Vision
+
+J. A. Marshall             Office of Naval Research       Self-organization of
+                                                          Neural Mechanisms for
+                                                          Perceptual
+                                                          Stabilization of
+                                                          Moving Visual Objects
+                                                          Under Occlusion,
+                                                          Transformations,
+                                                          Distortions, and Noise
+
+J. A. Marshall             UNC at Chapel HIll             Junior Faculty
+                                                          Development Award
+
+S. M. Pizer                National Institutes of         Medical Image
+                           Health                         Presentation
+
+S. M. Pizer                National Science Foundation    Visualization in
+                                                          Biomedical
+                                                          Computing, l992
+                                                          Conference
+
+
+D. A. Plaisted             National Science Foundation    Hyper-Linking with
+                                                          Equality and Semantics
+
+D. A. Plaisted             UNC at Chapel HIll             Faculty Research Award
+
+J. F. Prins                Army Research Office           Fluid Flow and
+                                                          Contaminant Transport
+                                                          in Heterogeneous
+                                                          Multiphase Systems
+
+J. F. Prins                Defense Advanced Research      A Prototyping
+                           Projects Agency                System for Parallel
+                                                          and Distributed
+                                                          Applications
+
+J. F. Prins                Environmental Protection       Parallel Computation
+                           Agency                         of Air Quality
+                                                          Simulation Models
+
+R. K. Singh                National Science Foundation    Bioscan:  A
+V. L. Chi                                                 VLSI-based System
+                                                          for Biosequence
+                                                          Analysis
+
+F. D. Smith                IBM                            Research and Teaching
+S. F. Weiss                                               Agreement
+
+J. B. Smith                National Science Foundation    Building and Using a
+F. D. Smith, et al.                                       Collaboratory:  a
+                                                          Foundation for
+                                                          Supporting and
+                                                          Studying Group
+                                                          Collaborations
+
+P. D. Stotts               National Science Foundation    Distributed
+                                                          Concurrent Hypertext
+
+W. V. Wright               National Science Foundation    Micro-Teleoperation at
+                                                          Atomic Scale
+
+Total grants, contracts, and gifts (FY9-P93):   $7 million
+
+
+
+****FACILITIES****
+Sitterson Hall, opened in 1987, provides 74,000 square feet of 
+sophisticated, state-of-the-art research facilities and office 
+space for all members of the Department.  The building is 
+organized in 'clusters' to create research communities featuring 
+laboratories and open conference areas to facilitate interaction 
+among students and faculty.  
+
+Graduate students have access to all Departmental research and 
+teaching facilities.  These include several specialized research 
+laboratories for graphics and image processing, design and 
+building of computers, distributed systems, parallel systems, 
+software development, and collaborative systems.  The laboratories 
+are bound together by the Department's fully integrated, 
+distributed computing environment.
+
+
+GENERAL COMPUTING ENVIRONMENT
+The computing environment includes more than 450 computers, 
+ranging in performance from 3 million instructions per second 
+(MIPS) to more than 77 MIPS.  These systems are integrated by 
+means of high-speed networks and by software that is consistent at 
+a user level over the many architectural platforms.  Moreover, 
+several of the Department's research laboratories include 
+specialized equipment and facilities, described in the section 
+"Research laboratories."
+
+General computing systems include more than 25 Sun workstations, 
+180 DEC workstations, 20 HP workstations, 7 IBM workstations, 180 
+Apple Macintosh systems, and 20 IBM personal computers, supported 
+by 200 gigabytes of magnetic disk space and 40 gigabytes of 
+optical storage.  Main memory on each computer ranges from 4 
+megabytes to 512 megabytes, totalling more than 2 gigabytes across 
+all of these systems.  Output facilities include high-speed dot-
+matrix printers, laser printers, color printers and plotters, 
+slide makers, and transparency-making equipment.
+
+The parallel computing facilities comprise both the DepartmentUs 
+own designs, such as the Pixel-Planes 5 graphics engine, a 
+massively parallel computer, and a commercial MasPar MP-1 
+computing system.  The latter provides 8,192 processors and 512 
+megabytes of main memory in a SIMD architecture and can execute up 
+to four billion (32-bit) integer operations per second.  An HiPPI 
+interface and an eight spindle parallel disk array are attached 
+via a high-speed I/O subsystem.
+
+Our primary software environment consists of the Unix operating 
+system, AFS File System, and Motif Windowing System.  Languages 
+most commonly used include C, C++, and Prolog.  Document 
+preparation is usually accomplished via Macintosh systems.  Our 
+extensive software holdings are continually evolving. 
+
+The communications facilities include an FDDI and Ethernet router, 
+an integrated voice/data switch, and video switches, which serve 
+as the hubs of an extensive network of cabling that reaches into 
+each office to provide voice, data, and video networking 
+capabilities.  The campus broadband provides extended Ethernet 
+service to other facilities on campus and connects the Department 
+to the CoNCert network, allowing us to reach any network in the 
+world.  CoNCert is the state-wide network that links research and 
+educational institutions.  Our two-way video classroom and 
+teleconference room allow connection to any institution served by 
+the network.  Courses are shared among the institutions via two-
+way, interactive video teleclassing, and CoNCert substantially 
+widens the course, concentration, and advising opportunities 
+available to students at participating universities.  A two-way 
+broadband network permits building-wide distribution of motion 
+video.  The network also incorporates a satellite earth station.
+
+The Department also has access to computing facilities at the 
+University's Office of Information Technology, which operates DEC 
+VAX systems running VMS, an IBM mainframe running MVS, and a 
+Convex supercomputer running Unix.  We have access to the Cray YMP 
+at the North Carolina Supercomputer Center.
+
+Almost every student is assigned to a one- or two-person office, 
+with a few in larger, three-person offices.  Each student has a 
+private computer. 
+
+
+RESEARCH LABORATORIES
+The Collaboratory supports research and teaching in computer-
+supported cooperative work, distributed and real-time systems, 
+hypermedia, and human-computer interaction, including both 
+empirical and theoretical studies.  Research conducted in this 
+laboratory is motivated by the driving problem of creating 
+computer and communication systems to aid collaboration in teams 
+of technical professionals working in physically separate 
+locations.  An interdisciplinary team of computer scientists, 
+cognitive psychologists, and anthropologists uses the laboratory 
+for several research projects in these areas.  Specialized 
+equipment includes facilities for research in multimedia, 
+including both analog and digital video and audio systems.
+
+The Graphics and Image Laboratory supports research and teaching 
+in computer graphics, image processing, virtual environments, 
+computer vision, and pattern recognition.  Specialized image-
+generating systems include the UNC-CH's unique Pixel-Planes 5 
+machine, a scalable 3D graphics multicomputer containing more than 
+250,000 processors; two Silicon Graphics Onyx computers with 
+Reality Engine2 graphics; a Silicon Graphics Power Series 460VGX 
+computer; a Silicon Graphics Indy workstation; several DEC 3100 
+and DEC 5000 graphics workstations; several Hewlett Packard 700 
+series workstations; and high-precision color monitors.  Most 
+displays can be viewed in stereo.  Interaction devices include an 
+Argonne robotic manipulator, a Sarcos telerobotic arm, an optical 
+ceiling tracking system, Virtual Research head-mounted displays, 
+head-mounted displays that were designed and built in this 
+department, Polhemus 3D tracking systems, a voice recognition 
+system, joysticks, mouse devices, data tablets, and other 
+commercial and inhouse-designed manual input devices.  The 
+laboratory has extensive facilities for recording, editing, and 
+producing high-quality video.
+
+The Microelectronic Systems Laboratory (MSL) provides facilities 
+for building prototypes of a variety of microtechnology-based 
+systems to support research in the application of information 
+processing in a multidisciplinary context.  Custom designed and/or 
+off-the-shelf VLSI and MEMS, as well as conventional components, 
+are used to design, develop, and build systems from small-scale, 
+proof-of-concept prototypes through systems of significant size 
+and complexity such as the Pixel-Planes family of graphics systems 
+and the optical ceiling tracker.  A full-time staff of research 
+faculty and engineers provides continuity of know-how and 
+economically leverages new research thrusts.  Extensive facilities 
+and state-of-the-art equipment support the use of electronic, 
+optical, mechanical, and other relevant technologies.  A well 
+developed network of component suppliers and service organizations 
+is maintained, as well as an extensive in-house suite of powerful 
+CAD/CAM tools.  The MSL is an exceptional academic prototyping 
+laboratory with a well established, world-class track record.
+
+The SoftLab Software Systems Laboratory has as its primary 
+objective to provide the DepartmentUs experimental research 
+efforts in VLSI and distributed systems design with a 
+software development (and manufacturing) environment 
+optimized for rapid prototyping of novel architectures.  
+SoftLab integrates imported, customized, and internally 
+designed and implemented tools into a Rtool suite,S providing 
+users with the flexibility and ease of application 
+development needed to facilitate evaluation and proof-of-
+concept development efforts.  To date, SoftLab has imported 
+or developed compilers, operating systems, programming 
+environments, the Interface Description Language (IDL) 
+Toolkit, device drivers, networking, and telecommunication 
+applications software.  SoftLab also offers software 
+engineering support to software developers in research 
+groups.  This support includes establishing standards for 
+documenting, testing, and configuration management and 
+promoting object-oriented programming methods.  Finally, 
+SoftLab provides a software manufacturing and distribution 
+facility that makes available to other university and 
+commercial efforts the fruits of our DepartmentUs research 
+efforts, including the SoftLab tool suite itself.
+
+LIBRARY
+Students have access to the entire University library system, 
+which includes three major centralized and several satellite 
+libraries that contain more than 3.5 million volumes, as well as 
+those at nearby North Carolina State and Duke universities, with a 
+unified on-line searching capability.  
+
+The Brauer Library, next door in Phillips Hall, has extensive 
+holdings in mathematics, physics, statistics, operations research, 
+and computer science.  
+
+
+****ADMISSIONS AND GRADUATE STUDIES****
+
+STUDENT DISTRIBUTION
+Our graduate student population is very diverse in terms of 
+both geographic origin and previous degrees.  Most of our 
+approximately 150 students are pursuing a degree full time.  
+While computer science and mathematics represent the largest 
+number of undergraduate majors among our graduate students, 
+other undergraduate and graduate degree majors include 
+physics, engineering, the social sciences, and humanities. 
+The following are the median credentials for the 35 first-
+year students who began our program in fall 1993:
+
+Quantitative GRE	93rd percentile
+Verbal GRE		92nd percentile 
+			94th (with non-native 
+			speakers excluded)
+Analytical GRE		93rd percentile
+GPA (undergraduate)	3.6
+
+
+ADMISSIONS REQUIREMENTS
+Admissions Requirements.  Admission to the Department is highly 
+competitive.  Although we welcome promising students from all 
+disciplines, entering students must have a substantial background in 
+both mathematics and computer science.  This normally includes at 
+least six semester courses in mathematics and six in computer 
+science.  We consider knowledge of the following subjects to be 
+standard preparation for our graduate program:     
+
+%	differential and integral calculus;
+%	discrete mathematics:  sets, relations, functions, algebra;
+%	linear algebra or matrix theory;
+%	mathematical probability, preferably calculus-based;
+%	structured programming techniques;
+%	data structures and abstract data types;
+%	computer organization;
+%	representation of elementary data;
+%	programming in an assembler language.
+
+Most entering students will have studied all but two or three of the 
+following courses:
+
+%	algorithms and their  analysis;
+%	theory of languages and computation;
+%	files  and  databases;
+%	operating systems;
+%	translators;
+%	digital logic techniques;
+%	numerical computing methods;
+%	programming languages;
+%	software engineering. 
+
+Outstanding students who have not completed all of these 
+requirements are frequently admitted. Preference is given to 
+applicants who are solidly prepared, especially in mathematics.  If 
+admitted without having completed all the listed requirements, the 
+student  must  complete them after admission.    
+
+A baccalaureate degree is required, with a grade point average of at 
+least B (3.0/4.0); most entering students have a GPA above 3.5. 
+
+GRE.  High scores on all three parts of the General Aptitude Test of 
+the Graduate Record Examination are also required: a minimum of 80th 
+percentile on the verbal and 90th percentile on the quantitative and 
+analytical sections is expected.  In recent years, entering students 
+have averaged more than  90th percentile on the verbal section, 95th 
+percentile on the quantitative section, and 90th percentile on the 
+analytical section.  Allowances are made in interpreting the verbal 
+test scores of applicants whose native language is not English.  
+Although GRE Advanced Test scores are not required, applicants are 
+encouraged to take the Advanced Test in computer science, 
+mathematics, engineering, or physics, if appropriate.
+
+TOEFL.  Applicants whose native language is not English must submit 
+TOEFL scores.  We give preference to applicants who score above 600.  
+
+Personal Statement.  Each applicant must submit a short personal 
+statement directly to the Department.  The statement should include:
+
+%	objectives in pursuing graduate study;
+%	identification of any field of computer science in which you 
+	have a particular interest;
+%	information relevant to your qualifications for graduate 
+	study, but not included in the application (e.g. major 
+	academic projects, papers presented or published, and non-
+	academic computer experience);
+%	an informative title or a brief description of any course 
+	listed on your transcript without a title (or with a vague 
+	title such as "Mathematics II");
+%	a list of all courses taken or planned that do not yet 
+	appear on a transcript;
+%	an e-mail address, if available.
+
+Please type the statement, if possible.  It should be between half a 
+page and two pages long.
+
+Recommendations.  Three letters of recommendation are required.  
+Letters written by an applicantUs present or former professors are 
+usually more informative than those written by employers or 
+colleagues.
+
+Admission is based solely on merit.  UNC is an affirmative action, 
+equal opportunity institution.  Prospective applicants who clearly 
+surpass the minimum requirements are encouraged to write for 
+application materials to:  The Graduate School, CB# 4010, 200 Bynum 
+Hall, UNC-Chapel Hill, Chapel Hill,  N.C. 27599-4010, or to call 
+(919) 966-2611.
+
+Opportunities.  Most graduate students are supported by 
+assistantships during the academic year.  In addition, students are 
+encouraged to gain professional experience through summer 
+employment.  Many accept positions with government and industry at 
+various locations across the country as well as other university 
+departments.  Nearby Research Triangle Park also provides 
+opportunities to students.  Summer support is available from the 
+Department, but for only a limited number of students.
+
+
+DEGREE PROGRAMS AND REQUIREMENTS
+A successful computer scientist must be able to perceive and 
+to understand problems often arising from other disciplines 
+and to possess the knowledge and skills to develop solutions.  
+The course of study for the M.S. degree includes data 
+representation, algorithms, programming languages and 
+hardware, as well as important areas of application.  Ph.D. 
+program requirements subsume those of the M.S. program.  
+Students pursue particular areas of their choice and are 
+actively involved in research.  
+
+Master of Science.  An M.S. candidate must earn 30 semester 
+hours of credit, of which six hours may be transferred from 
+another institution.  A thesis is optional; if one is 
+written, it counts for six hours.  Course work in the M.S. 
+program consists of a core of required courses and a few 
+electives.  A student with stronger than minimal preparation 
+can substitute more advanced elective courses for core 
+courses.  A comprehensive examination is required.  In 
+addition, the student must have performed the following:  (1) 
+programmed and documented a program product; and (2) written 
+a significant piece of technical prose.  Requirement 1 can be 
+satisfied by course work, or by presenting satisfactory 
+documentation of previous experience.  Requirement 2 can be 
+satisfied by a special writing course, or by a thesis.  
+Although the M.S. degree has been earned in as little as 12 
+months, two academic years are normally required by a student 
+with an assistantship.  
+
+Doctor of Philosophy.  A Ph.D. candidate must take several 
+elective courses, typically 15 to 18 hours, in addition to 
+the courses required in the M.S. program, and must have 
+satisfied the two requirements listed above.  Other 
+requirements include passing written and oral comprehensive 
+examinations, and submitting a dissertation that presents an 
+original contribution to knowledge. The normal time needed by 
+a full-time student with an assistantship is four or five 
+years.  
+
+
+FINANCIAL SUPPORT
+Assistantships and fellowships are available for first-year 
+students.  Currently these appointments carry stipends of 
+$9,500 for the nine-month academic year 1993-94.  Stipends do 
+not include tuition and fees; however, the College provides 
+some funds for remission of the out-of-state portion of 
+tuition for students who are unable to qualify for North 
+Carolina residency.  The net stipend is sufficient to 
+maintain an unmarried student for a full calendar year.  
+Summer employment is also available at the current rate of 
+$500 per week.  To apply for an assistantship, an applicant 
+need only check the appropriate item on the admission 
+application form.  Applicants for assistantships are 
+automatically considered for all available fellowships.  
+Students can expect continued support, contingent on 
+satisfactory work performance and academic progress.  
+Opportunities also exist for part-time employment elsewhere 
+in the University and in the Research Triangle area.  All 
+students who have desired part-time employment have found 
+satisfactory arrangements with little delay.
+
+Deadlines.  The fall semester runs from late August to late 
+December; the spring semester from early January to early 
+May.  Graduate courses in computer science are not offered 
+during the summer.  Applications for fall admission, complete 
+with a personal statement, and all transcripts and 
+recommendations should be received by the Graduate School no 
+later than 31 January.   To ensure meeting that deadline, the 
+Graduate Record Examination should be taken no later than 
+December.  A few assistantships are sometimes available to 
+begin in the spring semester.  To be considered for these 
+assistantships, completed applications should be received no 
+later than 15 October and the GRE taken no later than June.  
+Foreign applicants should have their applications completed 
+by 1 January (for fall admission) or 1 October (for spring) 
+to allow time for obtaining a visa.
+
+
+
+****COURSES****
+121	Data Structures (3)
+122	Algorithms and Analysis (3)
+140	Introduction to Translator Systems (3)
+142	Introduction to Operating Systems (3)
+145	Software Engineering Laboratory (3)
+151	Numerical Computing (3)
+170	Applications of Natural Language Processing (3)
+171	Natural Language Processing (3)
+172	Information Retrieval (3)
+181	Models of Languages and Computation (3)
+190	Topics in Computer Science (1-3)
+212	Operating Systems (1.5)
+213	Files and Databases (1.5)
+214	Translators (1.5)
+216	Digital Logic Techniques (1.5)
+217	Programming Languages (1.5)
+228	Advanced Analysis of Algorithms (3)
+230	Data-Base Management Systems (3)
+232	Real-Time Systems (3)
+233	Discrete Event Simulation (3)
+235	Images, Graphics, and Vision (3)
+236	Computer Graphics (3)
+238	Raster Graphics (3)
+239	Exploring Virtual Worlds (3)
+240	Compiler Design (3)
+241	Advanced Compiler Design (3)
+242	Advanced Operating Systems (3)
+243	Distributed Systems (3)
+244	Advanced Programming Languages (3)
+245	Functional Programming (3)
+246	Logic Programming (3)
+248	Semantics and Program Correctness (3)
+249	Advanced Distributed Systems (3)
+252	Monte Carlo Method (3)
+253	Monte Carlo Methods (3)
+254	Picture Processing and Pattern Recognition (3)
+255	Computer Vision (3)
+257	Visual Solid Shape (3)
+258	Geometric Solid Modeling (3)
+261	Computer Architecture and Implementation (3)
+265	Advanced Computer Architecture (3)
+267	Advanced Computer Implementation (3)
+268	VLSI Systems Design (3)
+269	Advanced Design of VLSI Systems (3)  
+273	Neural Networks (3)
+275	Expert Systems (3)
+282	Mechanized Mathematical Inference (3)
+286	Discrete Optimization:  Algorithms and Complexity (3)
+288	Information Theory (3)
+289	Error-Correcting Codes (3)
+290	Topics in Computer Science (1-3)
+291	Professional Writing in Computer Science (3)
+321	Technical Communication in Computer Science (1)
+322	Seminar in Professional Practice (1)
+323	Seminar in Research (1)
+324	Computers and Society (1)
+345	Software Engineering Seminar (0.5)
+390	Research Seminar in Computer Science (0.5-3) 
+391	Reading and Research (1-3)
+393	Master's Thesis (0-6)
+394	Doctoral Dissertation (0-6)
+
+Numbers following course title represent credit hours.
+
+
+******MASTER OF SCIENCE DEGREE REQUIREMENTS*****
+2 May 1994
+
+This document lists the combined requirements of the Graduate School
+and of the Department of Computer Science (COMP) and supersedes all
+previous issues.  Reference is occasionally made for further details
+to the Graduate School Handbook (GSH).  Page references are to the
+1992 edition.  Apparent errors in the present document should be
+called to the attention of the Director of Graduate Studies.
+
+ADVISING
+
+When a student enrolls, a faculty member is appointed to serve as the
+student's program adviser.  If a student elects to write a thesis,
+he or she selects a thesis adviser, who normally replaces the program
+adviser and chairs the student's committee.  A student who wishes
+to change program adviser for some other reason may do so in
+consultation with the Director of Graduate Studies.
+
+ADMINISTRATION
+
+The Graduate Studies Committee (a standing committee of the Department
+faculty, chaired by the Director of Graduate Studies) interprets
+degree requirements, approves plans of study, and acts on petitions
+from students to the Department and to the Graduate School.
+
+A full-time Student Services Manager maintains student records,
+answers student queries, and directs student requests to the Graduate
+Studies Committee and to the Graduate School.  All student requests
+should be made through the Student Services Manager, usually on forms
+available from the Manager, whose office is Sitterson 133.
+
+COURSE REQUIREMENT
+
+Thirty semester hours of courses must be taken, of which at least 18
+hours must be in COMP and may include up to six hours of thesis
+research (COMP 393).  The choice of courses is subject to approval by
+the Graduate Studies Committee.  Registration in COMP 390 for research
+team meetings does not count toward the course requirement.  Other
+registration in COMP 390 does count.
+
+Each student is responsible for mastering the content of the following
+core courses, but is not specifically required to take any of them.
+The student's mastery of content will be tested by the
+Comprehensive examination.
+
+	COMP 202	(3 hrs)	Algorithm Analysis
+	COMP 203	(3 hrs)	Parallel and Distributed Computing
+	COMP 204	(3 hrs)	The Design and Implementation of Software
+	COMP 205	(3 hrs)	Scientific and Geometric Computation
+	COMP 206	(3 hrs)	Computer Architecture
+
+Up to six semester hours of graduate credit may be transferred from
+another accredited institution, or for courses taken at UNC-CH before
+admission to the Graduate School, or for courses taken in a different
+graduate program at UNC-CH, in partial fulfillment of the 30-hour
+requirement (GSH 14-15).  Course transfers must be approved by the
+Graduate Studies Committee and by the Graduate School.  Courses taken
+at Duke University, N.C. Central University, N.C. State University,
+UNC-Charlotte, and UNC-Greensboro count as home courses requiring no
+formal transfer (GSH 13-14).
+
+Before completing the first 18 hours of courses, the student shall
+submit to the Graduate Studies Committee (on form CS-3) a proposed
+plan of study chosen after consultation with (but not necessarily
+approved by) the program adviser.  The student may submit a plan early
+to find out what will be acceptable, and may specify choices such as
+"Course x or Course y", retaining the right to make the choice
+later if it is approved.
+
+Each student is strongly urged to elect at least three hours taught by
+a department other than COMP, unless the student has an unusually
+broad background.
+
+The course modules COMP 220-227 are artifacts of registration that
+permit an entering student to take part of a core course for part of
+the credit.  Thus a student who is familiar with the content of part
+of a core course, but not the whole course, is not forced to choose
+between omitting the course and taking all of it.  This helps a
+student with more than minimum preparation to make room for more
+appropriate courses.
+
+The election of a minor field is optional and infrequent.  If a minor
+is elected, it must include at least 9 hours of courses that are
+taught by departments other than COMP (and not merely cross-listings
+of COMP courses).  The minor must also meet all the requirements
+described in GSH 7.
+
+In the rare event that one COMP graduate student takes a course taught
+by another COMP graduate student, the Director of Graduate Studies
+should be consulted to determine whether credit can be granted.
+
+PROGRAM PRODUCT REQUIREMENT
+
+Each student is required to have programmed and documented a program
+product.  A nonexhaustive list of ways to meet the requirement
+includes: (1) having been a programmer (not simply a manager) on a
+team in the Software Engineering Laboratory course (COMP 145); (2)
+having written a large program in industry; and (3) having written a
+program product as part of an M.S. thesis or Ph.D. dissertation
+project.  The student must file Form CS-13 to document completion of
+the requirement.
+
+TECHNICAL WRITING REQUIREMENT
+
+Each student must satisfy a technical writing requirement, and can
+elect any one of three options.
+
+Writing Course Option 
+
+The most common method of satisfying the technical writing requirement
+is to take the Professional Writing in Computer Science course (COMP
+291).  The course includes study of writing techniques and the writing
+of a thesis quality paper (approximately 5000 words long) on an
+approved topic in computer science.  The paper is reviewed by two
+approved readers and revised by the student as necessary.  To satisfy
+the writing requirement, the student must receive a passing grade in
+COMP 291 and have the course paper judged by the readers to be of
+thesis quality with respect to both substance and presentation.  This
+must be reported on Form CS-8.
+
+Thesis Option
+
+A written thesis is based either on research or on the solution and
+documentation of a substantial problem in application or system
+programming.  The subject is chosen jointly by the student and the
+thesis adviser.  The student selects a thesis committee, which
+normally consists of the thesis adviser plus two other members of the
+Graduate Faculty.  The student must submit a brief written thesis
+proposal to the committee members during the early stages of thesis
+work.  Selection of the committee is described in further detail under
+"Committee Composition".
+
+The thesis must meet normal standards of scholarly writing and
+prescribed standards of form (GSH 22 and the Graduate School document
+A Guide to the Preparation and Submission of Theses and
+Dissertations).
+
+The student must register for at least three hours, but not more than
+six hours, of thesis (COMP 393).  Registration for COMP 393 can reduce
+to 24 the number of hours of non-research courses that the student
+must take.
+
+A student who elects to write a thesis must make an oral presentation
+of the thesis to the committee.  Before this presentation can take
+place, the adviser and at least one other member of the student's
+committee must agree that the thesis is in substantially finished
+form.  The student may elect that the presentation be public.  In that
+event the student gives a 50-minute presentation of the thesis,
+followed by questions from the committee and then from the audience.
+If the committee wishes, it may continue to question the student in
+private.  If the student elects a private presentation, it will be of
+such form and duration as are prescribed by the committee.  Public
+presentations are encouraged as a means of keeping the faculty and
+students of the department informed of current research and
+development activities, and to give the student experience in public
+speaking.
+
+The thesis presentation is technically a Final Oral examination.  The
+student may elect to combine it with the Oral Comprehensive
+examination on course work into a single examination, provided that
+the scheduling requirements for both have been met.  This election is
+independent of whether to present the thesis publicly.
+
+Outside Review Option
+
+A student who has written certain technical material in prior academic
+or nonacademic work may use this material to satisfy the writing
+requirement.  The student should apply to the Graduate Studies
+Committee on Form CS-4.  The relevant documentation should be
+attached; it will be returned.  Members of the Committee are normally
+willing to sign a non-disclosure agreement and read proprietary
+documents in confidence.  Approval requires a two-thirds vote of the
+Graduate Studies Committee.
+
+Documents may be accepted as satisfying this option only when the
+following conditions have been met.
+
+	a.  The document has technical content and is approximately
+	    5000 words long (or longer).
+	b.  The document has been reviewed and evaluated for both
+	    style and content by at least two readers.
+	c.  The review process was unrelated to this writing
+	    requirement.
+	d.  The review process was such that the result of a negative
+	    review would have been rejection of the
+	    document.
+
+Documents that clearly satisfy this policy include: (1) Ph.D.
+dissertations and M.S. theses with technical content; and (2) articles
+(of sufficient length and appropriate content) published in refereed
+journals.  Documents that do not satisfy this policy include: (1)
+documents published in unrefereed journals; and (2) papers written
+primarily to satisfy this requirement.
+
+COMPREHENSIVE EXAMINATION
+
+At the end of their program of study, students must pass a
+Comprehensive examination.  The student may elect either an oral or a
+written examination.
+
+The Oral Comprehensive examination, normally about two hours in
+length, is held when course work is completed or final courses are in
+progress.  A student who elects to write a thesis is examined by the
+thesis committee.  A student who elects another writing option is
+examined by a committee appointed for the purpose, as described in
+further detail under "Committee Composition".  The examination
+covers the core courses and all other courses in the student's
+approved program of study, excluding COMP 291, up to a maximum of 24
+hours of courses if the student elects the thesis option, or 30 hours
+if the student elects one of the other two options.
+
+To reduce the number of courses to 30 (24) hours, the student may
+specify one or more non-core courses to be excluded.  The relative
+emphasis upon the several courses is decided by the examining
+committee, which will inform the student of its decision, in writing,
+well in advance of the examination.  The student is responsible for
+arranging the time and place of the examination.
+
+The Written Comprehensive examination tests the student's mastery
+of the core course material.  It is an examination of minimal
+comprehensive coverage of the core including the undergraduate
+component thereof.  It tests mastery of definitions, concepts, and
+approaches.  It may, but need not, have questions integrating material
+across courses.  Because it is a test of knowledge, it should require
+minimal creativity to pass.  The examination, which lasts not more
+than six hours, is offered twice per year.
+
+If failed, the Comprehensive examination may be retaken, only once
+(except by petition), after a lapse of at least three months.  The
+student may elect an oral or a written form for the second
+examination, independently of the form of the first...If the failure
+resulted primarily from weakness in a narrow area, the second
+examination will normally cover only that area of weakness.  For an
+oral examination, the examining committee will notify the student, in
+writing, of the scope of the second examination.  For a written
+examination, the departmental Examinations Committee will so notify
+the student.
+
+COMMITTEE COMPOSITION
+
+The student's thesis committee or Comprehensive examination
+committee is appointed by the Director of Graduate Studies, on the
+recommendation of the student.  The committee must include at least
+two full members of the Graduate Faculty; at least one committee
+member must hold the rank of Associate Professor or higher.  The
+student should use Form CS-5 to propose the composition of the
+committee.
+
+FOREIGN LANGUAGE
+
+There is no foreign language requirement.  The faculty believes,
+however, that competence in a modern foreign language is an important
+asset for a computer scientist.  Therefore it recommends language
+study to prospective students.
+
+OTHER REQUIREMENTS
+
+Two semesters of residence credit must be earned (GSH 7, 17-18).  This
+is an automatic consequence of completing the 30 semester hours within
+5 years at this campus.  Applications for admission to candidacy and
+for award of the degree must be filed as stated in GSH 21-22.
+
+All degree requirements must be completed within five calendar years
+from the date of the student's first registration in the Graduate
+School, whether in COMP or in another graduate program.  As much as
+two years of time spent in active military service, the Peace Corps,
+or VISTA will not be counted, provided that the Graduate School
+approves.  Also, student may request a leave of absence for a
+definite, stated time, not to exceed one year.  If the Department and
+Graduate School approve, the duration of the leave is not counted
+against the time limit (GSH 9). Full-time master's students who are
+funded by the Department normally do not receive funding beyond their
+fourth semester.
+
+If degree requirements change during a student's stay in the
+Department, the student has the option of continuing under the old
+rules or switching and satisfying all the new rules.  In other words,
+the student can elect any point in time during his or her stay in the
+Department and satisfy the rules in effect at that point.
+
+An exception to any rule may be requested for cause by petition.  
+Decisions made by individual faculty members or by committees may be appealed
+to the Department faculty as a whole.
+
+SUMMARY AND REQUIRED FORMS
+(obtainable from the Student Services Manager, 133 Sitterson)
+
+By the end of semester 2
+
+Complete 18 semester hours
+
+Submit Plan of Study (CS-3) indicating how each of the M.S.
+requirements has been or will be met
+
+
+During semester 4
+
+Complete course work (at least 30 hours in approved Plan of Study)
+
+Submit Application for Admission to Candidacy and Degree Card (the
+deadline for these forms is about one month after the beginning of the
+semester)
+
+Take the Comprehensive examination
+
+
+Satisfying the program product requirement (can be done at any  time)
+
+Submit Form CS-13
+
+
+Satisfying the writing requirement (can be done at any  time)
+
+Option 1: 	Pass COMP 291 and have the associated paper accepted
+		by two approved readers (CS-8)
+
+Option 2: 	Have an M.S. thesis committee appointed (CS-5)
+		Submit an approved M.S. thesis
+
+	Pass the Final Oral examination (thesis presentation)
+
+Option 3: 	Submit an approved thesis substitute document (CS-4)
+
+
+Just before you leave . . .
+
+Return office key(s) and building access card to receptionist.
+
+
+
+*****DOCTOR OF PHILOSOPHY DEGREE REQUIREMENTS*****
+2 May 1994
+
+This document lists the combined requirements of the Graduate School and of the
+Department of Computer Science (COMP) and supersedes all previous issues.
+Reference is occasionally made for further details to the Graduate School
+Handbook (GSH).  Page references are to the 1992 edition.  Apparent errors in
+the present document should be called to the attention of the Director of
+Graduate Studies.
+
+ADMISSION TO DOCTORAL PROGRAM
+
+Admission to the doctoral program is by a vote of the faculty and is determined
+by performance on the Ph.D. Qualifying examination, course grades (we expect H-
+or better in at least half of the courses taken), admissions information,
+accomplishment on assistantships, and other testimony from the faculty.
+
+ADVISING
+
+When a student enrolls, a faculty member is appointed to serve as the student's
+temporary program adviser.  By the end of the first semester, the student
+should select a new adviser whose research interests are closer to those of the
+student.  As the student's research interests change and narrow, the student
+should change advisers as appropriate.  Changes in adviser should be reported
+to the Student Services Manager.
+
+ADMINISTRATION
+
+The Graduate Studies Committee (a standing committee of the Department faculty,
+chaired by the Director of Graduate Studies) interprets degree requirements,
+approves plans of study, and acts on petitions from students to the Department
+and to the Graduate School.
+
+A full-time Student Services Manager maintains student records, answers student
+queries, and directs student requests to the Graduate Studies Committee and to
+the Graduate School.  All student requests should be made through the Student
+Services Manager, usually on forms available from the Manager, whose office is
+Sitterson 133.
+
+COURSE REQUIREMENT
+
+Each student is responsible for mastering the content of the following core
+courses, but is not specifically required to take any of them.  The student's
+mastery of content will be tested by the Doctoral Written examination.
+
+	COMP 202	(3 hrs)	Algorithm Analysis
+	COMP 203	(3 hrs)	Parallel and Distributed Computing
+	COMP 204	(3 hrs)	The Design and Implementation of Software
+	COMP 205	(3 hrs)	Scientific and Geometric Computation
+	COMP 206	(3 hrs)	Computer Architecture
+
+Each student is required to take the following course, unless the requirement
+is waived, as explained later.
+
+	COMP 321	(1 hr)	Technical Communication in Computer Science
+
+Decisions as to other courses required beyond the core will be left to the
+student's doctoral committee with the approval of the Graduate Studies
+Committee.  Because proposed Plans of Study are considered individually, and
+one student's circumstances are not the same as another's, precedent is not
+controlling.
+
+The following are minimum requirements.  The student's committee may impose
+further requirements as it judges appropriate.  Unless otherwise specified,
+RcourseS means a 3-hour graduate-level course not in the core.  Two
+1.5-hour courses may, however, be accepted as equivalent to one 3-hour course.
+Taken Ras a graduate studentS does not necessarily mean at UNC-CH, and it
+permits the course to have been taken as a UNC-CH post-baccalaureate Continuing
+Education student.
+
+1. Primary concentration.  Three or four courses of which at least two support
+in depth the specific dissertation topic and at least one supports more
+generally the area of computer science in which the dissertation topic falls.
+The courses do not need to be related to each other, except in that they
+support the dissertation.  These courses may have been taken as an
+undergraduate and may have been counted towards an undergraduate degree.
+
+2. Secondary concentration.  One or two courses (two if there are only three
+courses in the primary concentration) that are clearly not in the area of
+computer science in which the dissertation topic falls.  If there are two
+courses, they must be a coherent pair.  These courses may not have been taken
+as an undergraduate.
+
+3. Mathematical skills.  One course at upper undergraduate level or higher in
+each of two approved areas.  An area is approved if it (a) appears on the
+following list, or (b) is designated by the student's committee as specifically
+supporting the dissertation topic, or (c) is approved by the Graduate Studies
+Committee on the basis of a cogent argument by the student.  These courses do
+not need to be related to each other, and may have been taken as an
+undergraduate.  A nonexhaustive, illustrative selection of UNC-CH courses
+normally approved appears after the name of each area in the list.
+
+	abstract linear algebra (with emphasis on "abstract")	
+	MATH 137 (normally preferred), 147 geometry
+	COMP 257; MATH 131, 180 graph theory and combinatorics
+	MATH 148, 190 mathematical logic PHIL 101, 111 modern algebra
+	MATH 134, 138 (normally preferred) probability and statistics
+	MATH 120; STAT 101, 102, 126, 127
+
+4. Supporting program.  Two courses outside computer science, each of which is
+either a foreign language course or a course that supports the dissertation
+topic.  (Two foreign language courses should normally be in the same foreign
+language.)  These courses must have been taken as a graduate student, but do
+not need to be at a graduate level.  They may include either or both of the
+courses taken (if as a graduate student) to satisfy the mathematical skills
+requirement.
+
+5. Minor.  The election of a formal minor is optional and infrequent.  If a
+minor is elected, it must include at least 15 hours of courses that are taught
+by departments other than COMP (and are not merely cross-listings of COMP
+courses).  The minor must also meet all the requirements described in GSH 8.
+
+A required course may be waived on the basis of prior study or experience.
+(Waivers are not required for core courses.)  The student must secure (on Form
+CS-2) the approval of his or her adviser and of the designated instructor.
+
+Relevant graduate courses from other accredited institutions or from other
+graduate programs at UNC-CH can be transferred to satisfy any of the foregoing
+course requirements (GSH 15).  Course transfers must be approved by the
+Graduate Studies Committee and by the Graduate School.  The Graduate School may
+require the student to pass an examination on the course content before
+approving the transfer.  Courses taken at Duke University, N.C. Central
+University, N.C. State University, UNC-Charlotte, and UNC-Greensboro count as
+home courses requiring no formal transfer (GSH 13-14).
+
+
+PROGRAM PRODUCT REQUIREMENT
+
+Each student is required to have programmed and documented a program product.
+A nonexhaustive list of ways to meet the requirement includes: (1) having been
+a programmer (not simply a manager) on a team in the Software Engineering
+Laboratory course (COMP 145); (2) having written a large program in industry;
+and (3) having written a program product as part of an M.S. thesis or Ph.D.
+dissertation project.  The student must file Form CS-13 to document completion
+of the requirement.
+
+FOREIGN LANGUAGE 
+
+There is no foreign language requirement.  The faculty believes, however, that
+competence in a modern foreign language is an important asset for a computer
+scientist.  Therefore it recommends language study to prospective students.
+Moreover, assistantship awards and fellowship recommendations are made taking
+language study here into account, so as not to penalize students for any
+prolongation of program resulting from language study.
+
+QUALIFYING EXAMINATION
+
+The Ph.D. Qualifying examination is in the form of a series of three oral
+examinations of 45-55 minutes each.  These examinations test the ability of
+the student to integrate material across subfields of computer science, to
+think sharply, to think formally, and to be creative.  The scope of the
+examination is set for each student by the departmental Examinations Committee
+on the basis of the student's selection of six courses.  The examinations are
+given in one period of at most two days, normally once a year in the Spring
+Semester, after final examinations and before Commencement.
+
+We expect a student making normal progress and requiring little pre-core
+remediation to complete in the first two semesters at least three 200-level
+courses, of which at least one requires formal thinking.  Such a student will
+be expected to take the examination in the spring ending the first full
+academic year.  A student needing more remediation who will not complete those
+expected courses in the first two semesters must petition during the first
+academic semester for a delay of the Qualifying examination.  The petition
+should lay out the planned schedule of courses until the examination and the
+proposed time for taking the examination.  Students who take the examination at
+the normal time or at the time approved by petition, but who fail the
+examination, will be allowed to retake the examination once only, normally one
+year later.  Students who defer the examination without approval will not be
+allowed to retake it after failure.  Form CS-10 is used to register for the
+examination and to petition for deferral.
+
+Each examining committee normally consists of three faculty members.  Each
+student takes questions from three different committees.  Each committee
+reports a grade and also comments on the examination performance of each
+student.  Each committee has a specified area of course work to base their
+questions upon, but they are also free to use material from undergraduate
+background, excepting that for which the student has not yet completed
+remediation.  The questions should normally cross the boundary between courses
+or at least between areas in a given course.  Many questions will include
+material from at least one core course.  Each committee will need to be able to
+ask questions that are different for some students than for others, but where
+students have the same course background in the area of the committee, they
+should receive the same questions to as great a degree as the oral examination
+format allows.
+
+DOCTORAL WRITTEN EXAMINATION
+
+This is a comprehensive examination that tests the student's mastery of the
+core course material.  It is identical to the written form of the M.S.
+Comprehensive examination.  It is an examination of minimal comprehensive
+coverage of the core including the undergraduate component thereof.  It tests
+mastery of definitions, concepts, and approaches.  It may but need not have
+questions integrating material across courses.  Because it is a test of
+knowledge, it should require minimal creativity to pass.  Since it is an
+examination of minimal comprehensive coverage of the core, the passing level is
+the same for M.S. and Ph.D. students.
+
+The examination, which lasts not more than six hours, is offered twice per
+year.  If failed, the examination may be retaken, once only (except by
+petition), after a lapse of at least three months (GSH 20).  It is assumed that
+for a Ph.D. student, who already will have qualified, the examination will not
+form a screen, but rather will test when the student has reached a certain
+stage of knowledge.  For the Ph.D. student, the grading of the examination can
+lead to declaration of weaknesses.
+
+DOCTORAL ORAL EXAMINATION
+
+The Doctoral Oral examination may be taken by any student who has passed the
+Doctoral Written examination, and whose program of study has been approved by
+the Graduate Studies Committee.
+
+The examination, normally two to three hours in length, will be administered by
+the student's doctoral committee.  The scope of the examination will be
+selected by the committee, which will inform the student in writing of its
+selection well in advance.  The scope will be limited to testing areas of
+weakness identified on the Doctoral Written examination, preparation for
+research, and subjects judged by the committee to be relevant to the area of
+the student's dissertation.  If, after passing the Doctoral Oral examination,
+the student undertakes dissertation research in a different area, the doctoral
+committee appointed for the new dissertation may require the student to take a
+further Doctoral Oral examination on the new area.
+
+At least one week before the examination, the student must apply to the
+Graduate School for a "Permit to Take the Second Doctoral Examination"
+(GSH 19).  The student is responsible for arranging the time and place of the
+examination.  If failed, the examination may be retaken, once only (except by
+petition), after a lapse of at least three months (GSH 20).
+
+DISSERTATION
+
+The candidate must present a dissertation constituting a worthwhile
+contribution to knowledge developed by the independent research of the
+candidate, meeting scholarly standards of organization, presentation, and
+literary merit, and prescribed standards of form (GSH 22 and the Graduate
+School document A Guide to the Preparation and Submission of Theses and
+Dissertations).  The adviser and at least two other members of the student's
+committee will read carefully the entire dissertation.
+
+A cooperative meeting of the student with his or her doctoral committee will be
+held to discuss the feasibility of the student's proposed research.  At least
+one week before meeting, the student shall submit to the committee a brief
+written dissertation proposal defining the scope of the proposed research and
+the planned method of attack on the research problem.  The committee will
+either approve or reject the plan at this meeting.  The student is responsible
+for arranging the time and place of the meeting.  The meeting can either
+precede or follow the Doctoral Oral examination, by either a short or a long
+interval, at the discretion of the student and committee.  The student is
+expected to call a committee meeting at least every six months to discuss the
+progress of the dissertation, initially filing and later updating Form CS-7.
+
+The student's doctoral committee consists of at least five persons, a majority
+whom must be full members of the Graduate Faculty.  Other committee members may
+be faculty from other institutions, scholars from industry, or others whose
+expertise is relevant to the dissertation (GSH 20).  At least one committee
+member must hold the rank of Associate Professor or higher.  The student names
+the committee by submitting the "Recommendation for Composition of Doctoral
+Dissertation Committee" form.  For each proposed committee member who is not
+on the Graduate Faculty, a curriculum vitae and the Graduate School form
+"Recommendation for Appointment to Membership on the Graduate Faculty"
+should be attached.  The dissertation adviser serves as committee chair, unless
+the adviser is not a COMP faculty member, in which event a COMP faculty member
+serves as chair.
+
+The student must register for at least three credit hours of dissertation (COMP
+394).
+
+FINAL ORAL EXAMINATION
+
+The Final Oral examination normally consists of a public dissertation defense
+confined to the subject area of the dissertation.  The student presents his or
+her research for 50 minutes; questions follow from the committee and from the
+audience.  If the committee feels it necessary, it may supplement the
+dissertation defense by a private examination on other material.  Before the
+defense can take place, the adviser and at least two other members of the
+student's committee must agree that the dissertation is in substantially
+finished form.  The defense should be announced at least two weeks in advance.
+
+OTHER REQUIREMENTS
+
+Four semesters of residence credit must be earned.  At least two of these must
+be earned by continuous registration for no fewer than six semester hours per
+regular semester or summer session, although registration during the summer is
+not required for continuity (GSH 8, 17-18).  Note that a semester in
+residence is not identical to a semester of residence credit.
+
+The Department sponsors a colloquium series, which Ph.D. students are expected
+to attend.
+
+Each student is normally required to have one semester of classroom teaching
+experience including planning, teaching and grading, here or elsewhere.  This
+requirement is often satisfied by teaching an undergraduate course in one
+semester or summer session, and sometimes by teaching 50% of a three-credit
+graduate course.  The Graduate Studies Committee may approve other ways of
+satisfying the requirement.  The student should document fulfillment of the
+requirement by filing Form CS-11.
+
+Each student is strongly urged, but not required, to spend at least one summer
+in employment as a professional computer scientist.
+
+The student should apply to the Graduate School for admission to candidacy
+after passing the Doctoral Oral examination, completing all courses in the
+approved Plan of Study, and receiving approval of the dissertation proposal
+(GSH 21).  The student must apply by the deadline to the Graduate School for
+award of the degree (GSH 22).
+
+All the requirements for the Ph.D. must be completed within eight calendar
+years from the date of the student's first registration in the Graduate School,
+whether in Computer Science or in another graduate program.  If a student
+completes a master's degree (in any program) at UNC-CH, the eight years are
+counted instead from receipt of the master's degree.  As much as two years of
+time spent in active military service, the Peace Corps, or VISTA will not be
+counted against the time limit, provided that the Student Services Manager is
+informed.  Also, a student may request a leave of absence for a definite,
+stated time, not to exceed one year.  If the Department and Graduate School
+approve, the duration of the leave is not counted against the time limit (GSH
+9).
+
+If degree requirements change during a student's stay in the Department, the
+student has the option of continuing under the old rules or switching and
+satisfying all the new rules.  In other words, the student can elect any point
+in time during his or her stay in the Department and satisfy the rules in
+effect at that point.
+
+An exception to any rule may be requested for cause by petition.  Decisions
+made by individual faculty members or by committees may be appealed to the
+Department faculty as a whole.
+
+SUMMARY AND REQUIRED FORMS
+(obtainable from the Student Services Manager, 133 Sitterson)
+
+By the end of  semester 1
+
+Select an appropriate adviser.  Thereafter, change advisers as necessary
+
+Register for Oral Qualifying examination (Form CS-10 )
+
+By the end of semester 2
+
+Pass the Ph.D. Qualifying examination
+
+By the end of semester 5
+
+Pass the Doctoral Written examination
+
+Discuss research plan with at least three (potential) committee members; submit Form CS-12
+
+By the end of semester 6
+
+Name the remaining members of the doctoral committee (Graduate School form)
+Submit Plan of Study (Form CS-6) approved by the committee
+
+By the end of semester 7 
+
+Submit a dissertation proposal to the committee; hold meeting for approval 
+of proposal or
+Request permission to take the second doctoral examination 
+(Graduate School form)
+
+Pass the Doctoral Oral examination
+
+By the end of semester 8 
+Submit dissertation proposal and pass the Doctoral Oral examination
+Apply for Admission to Candidacy (Graduate School form) and submit degree 
+card Q
+you may need to submit another degree card at the beginning of your 
+last semester
+
+At any  time
+
+Satisfy the program product requirement; submit Form CS-13
+
+Satisfy the teaching requirement: submit Form CS-11
+
+Submit course waiver forms (CS-2) as appropriate
+
+Every six months after approval of the dissertation proposal
+
+Meet with the committee to discuss dissertation progress (Form CS-7)
+
+By the end of semester 9
+
+When dissertation is in substantially finished form, announce 
+dissertation defense, giving two weeks' notice
+
+Pass Final Oral examination (Dissertation Defense)
+
+Submit completed and signed dissertation to the Graduate School
+
+Just before you leave . . .
+Return office key(s) and building access card to receptionist
+
+
+
+
+****FACULTY E-MAIL ADDRESSES****
+Full-time faculty
+James Anderson			anderson@cs.unc.edu
+Gary Bishop			gb@cs.unc.edu
+Frederick P. Brooks, Jr.	brooks@cs.unc.edu
+Christina Burbeck		burbeck@cs.unc.edu
+Peter Calingaert		pc@cs.unc.edu
+Vernon L. Chi			chi@cs.unc.edu
+James M. Coggins		coggins@cs.unc.edu
+Prasun Dewan			dewan@cs.unc.edu
+John G. Eyles			jge@cs.unc.edu
+Henry Fuchs			fuchs@cs.unc.edu
+John H. Halton			halton@cs.unc.edu
+Kye S. Hedlund			hedlund@cs.unc.edu
+Kevin Jeffay			jeffay@cs.unc.edu
+Anselmo A. Lastra		lastra@cs.unc.edu
+Gyula A. Mago			mago@cs.unc.edu
+Dinesh Manocha			manocha@cs.unc.edu
+Jonathan A. Marshall		marshall@cs.unc.edu
+Ralph A. Mason			mason@cs.unc.edu
+Steven E. Molnar		molnar@cs.unc.edu
+Lars S. Nyland			nyland@cs.unc.edu
+Stephen M. Pizer		smp@cs.unc.edu
+David A. Plaisted		plaisted@cs.unc.edu
+John Poulton			jp@cs.unc.edu
+Jan F. Prins			prins@cs.unc.edu
+Jannick P. Rolland		rolland@cs.unc.edu
+Raj K. Singh			singh@cs.unc.edu
+Dana Kay Smith			smithdk@cs.unc.edu
+John B. Smith			jbs@cs.unc.edu
+Donald F. Stanat		stanat@cs.unc.edu
+David Stotts			stotts@cs.unc.edu
+Jeannie M. Walsh		walsh@cs.unc.edu
+Stephen F. Weiss		weiss@cs.unc.edu
+Turner Whitted			jtw@cs.unc.edu
+William V. Wright		wright@cs.unc.edu
+
+
+Adjunct faculty
+Hussein Abdel-Wahab		wahab@cs.unc.edu
+David V. Beard			beard@cs.unc.edu
+William E. Groves		bill_groves@unc.edu
+Julian Rosenman			rosenman@cs.unc.edu
+F. Donelson Smith		smithfd@cs.unc.edu
+
+
+
+
+****FOR MORE INFORMATION****
+Admissions and graduate studies
+Phone:	(9l9) 962-1900
+Internet mail:	admit@cs.unc.edu
+
+Publications information
+Internet mail:	pubs@cs.unc.edu
+
+Technical reports information
+Internet mail:	netlib@cs.unc.edu
+
+General Department information
+Phone:	(9l9) 962-1700
+Internet mail:	geninfo@cs.unc.edu
+FAX:	(919) 962-1799
+
+Department of Computer Science
+College of Arts and Sciences
+The University of North Carolina
+Campus Box 3175, Sitterson Hall
+Chapel Hill, NC  27599-3175
+
+

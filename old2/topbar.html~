@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>menu</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#FFFFFF" alink="#FFFFFF" vlink="#FFFFFF">
+<center><table border=0 cellspacing=0 width=96%>
+<tr><td><a href="home.html" target="home"><img src="csmc.jpg"></a></td>
+<td><a href="charter.html" target="home"><font color=blue>Current Charter</font></a></td>
+<td><a href="shirts.html" target="home"><font color=blue>T-Shirt Designs</font></a></td>
+<td><a href="refs.html" target="home"><font color=blue>Unix/Emacs References</font></a> </td>
+<td><a href="more-refs.html" target="home"><font
+color=blue>Other References</font></a></td>
+<td><a href="LabCore.html" target="home"><font
+color=blue>Lab Policy</font></a></td>
+
+
+</table>
+</center></body>
+</html>
+ 
+
