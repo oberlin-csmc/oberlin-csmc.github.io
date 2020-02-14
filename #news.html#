@@ -1,0 +1,9 @@
+<h1>What's New at CSMC?</h1>
+<p><em>Site last updated 3/03/10 by Danny Spencer</em></p>
+<div class="news">
+<?php
+include("anniversary.html");
+include("elections.html");
+?>
+</div>
+
