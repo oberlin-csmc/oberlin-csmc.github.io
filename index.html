@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="text/javascript" src="jquery-3.3.1.js"></script>
+<script src="index.js"></script>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<!-- https://www.w3schools.com/howto/howto_js_tabs.asp -->
+<div class="tab">
+  <button id="defaultOpen" class="tablinks" onclick="openTab(event, 'CSMC')">CSMC</button>
+  <button class="tablinks" onclick="openTab(event, 'News')">News</button>
+  <button class="tablinks" onclick="openTab(event, 'Members')">Members</button>
+  <button class="tablinks" onclick="openTab(event, 'T-shirts')">T-shirts</button>
+  <button class="tablinks" onclick="openTab(event, 'Labs')">Labs</button>
+  <button class="tablinks" onclick="openTab(event, 'Resources')">Resources</button>
+</div>
+
+<div id="CSMC" class="tabcontent">
+  <h2> What is CSMC?</h2>
+  <object type="text/html" data="tabs/csmc.html"></object>
+</div>
+
+<div id="News" class="tabcontent">
+  <h2>What's New Around Here?</h2>
+  <object type="text/html" data="tabs/news.html"></object>
+</div>
+
+<div id="T-shirts" class="tabcontent">
+  <h2>What do we wear?</h2>
+  <object type="text/html" data="tabs/t-shirts.html"></object>
+</div>
+
+<div id="Members" class="tabcontent">
+  <h2>Who is CSMC?</h2>
+  <object type="text/html" data="tabs/members.html"></object>
+</div>
+
+<div id="Labs" class="tabcontent">
+  <h2>How do we lab?</h2>
+  <object type="text/html" data="tabs/labs2.html"></object>
+</div>
+
+<div id="Resources" class="tabcontent">
+  <h2>How can we be of help to majors?</h2>
+  <object type="text/html" data="tabs/resources.html"></object>
+</div>
+</body>
+
+<script>
+document.getElementById("defaultOpen").click();
+</script>
+</html>

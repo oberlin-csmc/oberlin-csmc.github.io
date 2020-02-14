@@ -1,0 +1,60 @@
+hr {
+  border-top: 1px solid black;
+}
+
+div {
+  font-family: Times;
+  font-size: 16px;
+}
+
+.col-md-2 {
+  background-color:yellow;
+}
+
+.col-md-3 {
+  height: 90%;
+  position: absolute;
+  overflow-y: scroll;
+}
+
+body {
+  overflow: hidden;
+}
+
+h3 {
+  font-variant:small-caps;
+}
+
+#yourlab.labdiv strong {
+	color:#909;
+}
+#ourlab.labdiv strong {
+	color:#909;
+}
+#quietlab.labdiv strong {
+	color:#00F;
+}
+#sociallab.labdiv strong {
+	color:#080;
+}
+
+.labdiv {
+	float:left;
+	width:75%;
+}
+
+.labdiv p {
+	padding-left:15px;
+	padding-right:15px;
+	font-weight:bold;
+}
+
+.labdiv p strong {
+	font-size:1.1em;
+	font-weight:normal;
+}
+
+.labdiv p em {
+	font-weight:normal;
+	font-size:1.1em;
+}
