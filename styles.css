@@ -1,0 +1,191 @@
+a{
+	color:#cc3333;
+}
+a:visited{
+	color:#663333;
+}
+a:hover{
+	color:#336699;
+	text-decoration:underline;
+}
+h1{
+	font-variant:small-caps;
+	color:#333;
+	background-color:#eee;
+	padding:5px;
+	padding-left:15px;
+	padding-right:15px;
+	margin:4px;
+	font-size:35px;
+
+}
+h2, .news h1{
+	font-size:25px;
+	color:#666699;
+	text-align:center;
+	border-bottom:solid 1px #333366;
+	font-variant:normal;
+	background-color:#fff;
+	padding:2px;
+	padding-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+	margin:1px;
+}
+h3, .news h2{
+	color:#444466;
+	padding-left:20px;
+	font-variant:small-caps;
+}
+.pics{
+	text-align:center;
+}
+.pics img{
+	border:solid 1px #333;
+	margin:2px;
+	}
+body{
+	margin:0px;
+	padding:0px;
+}
+.body {
+	width:900px;
+	margin:0px;
+	padding:0px;
+	margin:auto;
+	padding-bottom:60px;
+}
+.text{
+	clear:both;
+}
+#menu{
+	margin:0px;
+	padding:0px;
+	display: flex;
+	height: 100px;
+}
+#menu a{
+	flex-basis: 0;
+	flex-grow: 1;
+
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	border:none;
+	margin:4px;
+	padding:4px;
+	text-decoration:none;
+	font-weight:bold;
+	text-align:center;
+	background-color:#CCC;
+	vertical-align:middle;
+	color:#333;
+	padding-top:5px;
+	margin-top:8px;
+	border-top:solid 25px #333;
+}
+#menu a:hover{
+	background-color:#000;
+	color:#fff;
+	border-top:solid 25px #222;
+}
+#menu a#A:hover{
+	border-color:#003366;
+	background-color:#336699;
+}
+#menu a#D:hover{
+	border-color:#663300;
+	background-color:#996633;
+}
+#menu a#G:hover{
+	border-color:#006633;
+	background-color:#339966;
+}
+#menu a#C:hover{
+	border-color:#003300;
+	background-color:#336633;
+}
+#menu a#E:hover{
+	border-color:#003333;
+	background-color:#336666;
+}
+#menu a#F:hover{
+	border-color:#333366;
+	background-color:#666699;
+}
+#menu a#B:hover{
+	border-color:#336666;
+	background-color:#669999;
+}
+#menu a#H:hover{
+	border-color:#336666;
+	background-color:#669999;
+}
+
+#yourlab.labdiv strong {
+	color:#909;
+}
+#ourlab.labdiv strong {
+	color:#909;
+}
+#quietlab.labdiv strong {
+	color:#00F;
+}
+#sociallab.labdiv strong {
+	color:#080;
+}
+
+.labdiv {
+	float:left;
+	width:50%
+}
+
+.labdiv p {
+	padding-left:15px;
+	padding-right:15px;
+	font-weight:bold;
+}
+
+.labdiv p strong {
+	font-size:1.1em;
+	font-weight:normal;
+}
+
+.labdiv p em {
+	font-weight:normal;
+	font-size:1.1em;
+}
+
+.officer .title {
+	display:inline-block; 
+	text-align:right;
+	padding-right:5%;
+	width:45%;
+}
+
+.officer .name {
+	display:inline-block;
+	padding-left:5%;
+	width:45%;
+}
+
+.officers {
+	width: 100%;
+	table-layout: fixed;
+}
+.officers .left {
+	text-align: right;
+	padding-right: 1rem;
+}
+.officers .right {
+	text-align: left;
+	padding-left: 1rem;
+}
+
+.msg {
+	border:solid 1px #333;
+	background-color:#ddd;
+	padding:5px;
+	margin:4px;
+}
+.text p{
+	padding:4px;
+}
