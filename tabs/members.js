@@ -1,4 +1,4 @@
-$.getJSON( "test.json", function( json ) {
+$.getJSON( "members.json", function( json ) {
     // console.log( "JSON Data received, name is " + JSON.stringify(json, null, "    "));
     var outer = document.createElement("div");
     outer.setAttribute("id", "members");

@@ -29,6 +29,8 @@ h3 {
 
 #members {
   align-content: center;
+  overflow-y: scroll;
+  
 }
 
 #yourlab.labdiv strong {
