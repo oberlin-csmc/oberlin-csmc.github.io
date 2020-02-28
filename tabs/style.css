@@ -7,8 +7,10 @@ div {
   font-size: 16px;
 }
 
+/* https://www.w3schools.com/colors/colors_names.asp */
 .col-md-2 {
-  background-color:yellow;
+  background-color:MediumPurple;
+  border-radius: 5px
 }
 
 .col-md-3 {
