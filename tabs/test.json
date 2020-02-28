@@ -1,4 +1,5 @@
-[{
+[
+  {
     "year": "Fall 2019",
     "structured": false,
     "members": [{
@@ -264,7 +265,8 @@
       "name": "Noel Warford",
       "email": "nwarford"
     }]
-  }, {
+  },
+  {
     "year": "2015-2016",
     "structured": false,
     "members": [{
@@ -295,7 +297,8 @@
       "name": "Lauren Wong",
       "email": "lwong"
     }]
-  }, {
+  },
+  {
     "year": "2014-2015",
     "structured": false,
     "members": [{
@@ -329,7 +332,8 @@
       "name": "Shiying Zheng",
       "email": "szheng"
     }]
-  }, {
+  },
+  {
     "year": "2013-2014",
     "structured": false,
     "members": [{
@@ -360,7 +364,8 @@
       "name": "Laura Watiker",
       "email": "lwatiker"
     }]
-  }, {
+  },
+  {
     "year": "2012-2013",
     "structured": true,
     "members": [{
@@ -385,7 +390,8 @@
       "role": "Laura Watiker",
       "name": "lwatiker"
     }]
-  }, {
+  },
+  {
     "year": "2012-2013",
     "structured": true,
     "members": [{
@@ -410,7 +416,8 @@
       "role": "Junior Rep.",
       "name": "Nathan Teetor"
     }]
-  }, {
+  },
+  {
     "year": "2011-2012",
     "structured": true,
     "members": [{
@@ -435,7 +442,8 @@
       "role": "Sophomore Rep.",
       "name": "Shejia \"Julia\" Zhu"
     }]
-  }, {
+  },
+  {
     "year": "2010-2011",
     "structured": true,
     "members": [{
@@ -454,7 +462,8 @@
       "role": "Freshman Rep.",
       "name": "Siang Wu"
     }]
-  }, {
+  },
+  {
     "year": "2009-2010",
     "structured": true,
     "members": [{
@@ -467,7 +476,8 @@
       "role": "Senior Rep. (Emer.)",
       "name": "Katie Kuksenok"
     }]
-  }, {
+  },
+  {
     "year": "2008-2009",
     "structured": true,
     "members": [{
@@ -489,7 +499,8 @@
       "role": "Sophomore Rep.",
       "name": "Katie Kuksenok"
     }]
-  }, {
+  },
+  {
     "year": "2007-2008",
     "structured": true,
     "members": [{
@@ -514,7 +525,8 @@
       "role": "Spring Replacement",
       "name": "Katie Kuksenok"
     }]
-  }, {
+  },
+  {
     "year": "2006-2007",
     "structured": true,
     "members": [{
@@ -536,7 +548,8 @@
       "role": "Junior Rep.",
       "name": "Axis Sivitz"
     }]
-  }, {
+  },
+  {
     "year": "2005-2006",
     "structured": true,
     "members": [{
@@ -555,7 +568,8 @@
       "role": "Underclassmen Rep.",
       "name": "Nick Hatt"
     }]
-  }, {
+  },
+  {
     "year": "2004-2005",
     "structured": true,
     "members": [{
@@ -583,7 +597,8 @@
       "role": "Underclassmen Rep.",
       "name": "Arthur Zeyda"
     }]
-  }, {
+  },
+  {
     "year": "2003-2004",
     "structured": true,
     "members": [{
@@ -623,7 +638,8 @@
       "role": "Spring Replacement",
       "name": "Wesley John-Alder"
     }]
-  }, {
+  },
+  {
     "year": "2002-2003",
     "structured": true,
     "members": [{
@@ -651,7 +667,8 @@
       "role": "Underclassmen Rep.",
       "name": "Joe Kimmel"
     }]
-  }, {
+  },
+  {
     "year": "2001-2002",
     "structured": true,
     "members": [{
