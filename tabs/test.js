@@ -11,7 +11,7 @@ $.getJSON( "test.json", function( json ) {
       year_node.appendChild(year_header);
       for (var indx in year.members) {
         var member = year.members[indx]
-          year_node.append(document.createElement(member.name))
+          year_node.append(document.createTextNode(member.name))
       }
       outer.append(year_node)
     }
