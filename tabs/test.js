@@ -6,8 +6,7 @@ $.getJSON( "test.json", function( json ) {
       // console.log("year: " + year.year)
       var year_node = document.createElement("div")
       var year_header = document.createElement("H3")
-      var year_text = document.createTextNode(year.year);
-      year_header.appendChild(year_text);
+      year_header.appendChild(document.createTextNode(year.year));
       year_node.appendChild(year_header);
       for (var indx in year.members) {
         var member = year.members[indx]
