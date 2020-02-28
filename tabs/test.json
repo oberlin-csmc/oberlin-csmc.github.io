@@ -1,0 +1,665 @@
+[{
+    "year": "Fall 2019",
+    "structured": false,
+    "members": [{
+        "name": "Maxwell Addae",
+        "email": "maddae"
+      },
+      {
+        "name": "Jack Bens",
+        "email": "jbens"
+      },
+      {
+        "name": "Jane Hsieh",
+        "email": "jhsieh"
+      },
+      {
+        "name": "Christian Ikeokwu",
+        "email": "cikeokwu"
+      },
+      {
+        "name": "Andrew Li",
+        "email": "ali"
+      },
+      {
+        "name": "Daniel Firebanks Quevedo",
+        "email": "dfireban"
+      },
+      {
+        "name": "Tumas Račkaitis",
+        "email": "trackait"
+      },
+      {
+        "name": "Helen He",
+        "email": "yhe"
+      },
+      {
+        "name": "Leah Yassky",
+        "email": "lyassky"
+      }
+    ]
+  },
+  {
+    "year": "Spring 2019",
+    "structured": false,
+    "members": [{
+        "name": "Maxwell Addae",
+        "email": "maddae"
+      },
+      {
+        "name": "Adam Cooper",
+        "email": "acooper"
+      },
+      {
+        "name": "Jakob Cornell",
+        "email": "jcornell"
+      },
+      {
+        "name": "Daniel Firebanks Quevedo",
+        "email": "dfireban"
+      },
+      {
+        "name": "Ezra Goss",
+        "email": "egoss"
+      },
+      {
+        "name": "Helen He",
+        "email": "yhe"
+      },
+      {
+        "name": "Jane Hsieh",
+        "email": "jhsieh"
+      },
+      {
+        "name": "Christian Ikeokwu",
+        "email": "cikeokwu"
+      },
+      {
+        "name": "Adina Johnson",
+        "email": "ajohnso5"
+      },
+      {
+        "name": "Andrew Li",
+        "email": "ali"
+      },
+      {
+        "name": "Jay Messina",
+        "email": "jmessin2"
+      },
+      {
+        "name": "Tumas Račkaitis",
+        "email": "trackait"
+      },
+      {
+        "name": "Isabel Taylor",
+        "email": "itaylor"
+      },
+      {
+        "name": "Sage Vouse",
+        "email": "svouse"
+      }
+    ]
+  },
+  {
+    "year": "Fall 2018",
+    "structured": false,
+    "members": [{
+        "name": "Adam Cooper",
+        "email": "acooper"
+      },
+      {
+        "name": "Jakob Cornell",
+        "email": "jcornell"
+      },
+      {
+        "name": "Daniel Firebanks Quevedo",
+        "email": "dfireban"
+      },
+      {
+        "name": "Ezra Goss",
+        "email": "egoss"
+      },
+      {
+        "name": "Helen He",
+        "email": "yhe"
+      },
+      {
+        "name": "Adina Johnson",
+        "email": "ajohnso5"
+      },
+      {
+        "name": "Andrew Li",
+        "email": "ali"
+      },
+      {
+        "name": "Jay Messina",
+        "email": "jmessin2"
+      },
+      {
+        "name": "Isabel Taylor",
+        "email": "itaylor"
+      },
+      {
+        "name": "Sage Vouse",
+        "email": "svouse"
+      }
+    ]
+  },
+  {
+    "year": "Spring 2018",
+    "structured": false,
+    "members": [{
+        "name": "Adam Cooper",
+        "email": "acooper"
+      },
+      {
+        "name": "Jakob Cornell",
+        "email": "jcornell"
+      },
+      {
+        "name": "Simon Ever-Hale",
+        "email": "severhal"
+      },
+      {
+        "name": "Daniel Firebanks Quevedo",
+        "email": "dfireban"
+      },
+      {
+        "name": "Helen He",
+        "email": "yhe"
+      },
+      {
+        "name": "Adina Johnson",
+        "email": "ajohnso5"
+      },
+      {
+        "name": "Andrew Li",
+        "email": "ali"
+      },
+      {
+        "name": "Julian Meltzer",
+        "email": "jmeltzer"
+      },
+      {
+        "name": "Jay Messina",
+        "email": "jmessin2"
+      },
+      {
+        "name": "Isabel Taylor",
+        "email": "itaylor"
+      },
+      {
+        "name": "Sage Vouse",
+        "email": "svouse"
+      },
+      {
+        "name": "Noel Warford",
+        "email": "nwarford"
+      }
+    ]
+  },
+  {
+    "year": "Fall 2017",
+    "structured": false,
+    "members": [{
+      "name": "Jakob Cornell",
+      "email": "jcornell"
+    }, {
+      "name": "Simon Ever-Hale",
+      "email": "severhal"
+    }, {
+      "name": "Helen He",
+      "email": "yhe"
+    }, {
+      "name": "Julian Meltzer",
+      "email": "jmeltzer"
+    }, {
+      "name": "Sage Vouse",
+      "email": "svouse"
+    }, {
+      "name": "Noel Warford",
+      "email": "nwarford"
+    }]
+  },
+  {
+    "year": "2016-2017",
+    "structured": false,
+    "members": [{
+      "name": "Dominic Bosco",
+      "email": "dbosco"
+    }, {
+      "name": "Puck Bregstone",
+      "email": "jbregsto"
+    }, {
+      "name": "Jakob Cornell",
+      "email": "jcornell"
+    }, {
+      "name": "Andres Cuervo",
+      "email": "acuervo"
+    }, {
+      "name": "Simon Ever-Hale",
+      "email": "severhal"
+    }, {
+      "name": "Eren Guendelsberger",
+      "email": "eguendel"
+    }, {
+      "name": "Helen He",
+      "email": "yhe"
+    }, {
+      "name": "Jun Li",
+      "email": "jli2"
+    }, {
+      "name": "Julian Meltzer",
+      "email": "jmeltzer"
+    }, {
+      "name": "Peter Stefek",
+      "email": "pstefek"
+    }, {
+      "name": "Isabel Taylor",
+      "email": "itaylor"
+    }, {
+      "name": "Sage Vouse",
+      "email": "svouse"
+    }, {
+      "name": "Noel Warford",
+      "email": "nwarford"
+    }]
+  }, {
+    "year": "2015-2016",
+    "structured": false,
+    "members": [{
+      "name": "Andrew Witcher",
+      "email": "awitcher"
+    }, {
+      "name": "Joey Gonzales-Dones",
+      "email": "jgonzal2"
+    }, {
+      "name": "Shiying Zheng",
+      "email": "szheng"
+    }, {
+      "name": "Benjamin Stern",
+      "email": "bstern"
+    }, {
+      "name": "Katherine Chan",
+      "email": "kchan"
+    }, {
+      "name": "Shang-Wei Young",
+      "email": "syoung"
+    }, {
+      "name": "Elizabeth Bentivegna",
+      "email": "ebentive"
+    }, {
+      "name": "Meghan McCreary",
+      "email": "mmccrear"
+    }, {
+      "name": "Lauren Wong",
+      "email": "lwong"
+    }]
+  }, {
+    "year": "2014-2015",
+    "structured": false,
+    "members": [{
+      "name": "Andrew Witcher",
+      "email": "awitcher"
+    }, {
+      "name": "Cameron Druecker",
+      "email": "cdruecke"
+    }, {
+      "name": "Daniel Barella",
+      "email": "dbarella"
+    }, {
+      "name": "Devon Wells",
+      "email": "dwells"
+    }, {
+      "name": "Eli Rose",
+      "email": "erose"
+    }, {
+      "name": "Joey Gonzales-Dones",
+      "email": "jgonzal2"
+    }, {
+      "name": "Laura Watiker",
+      "email": "lwatiker"
+    }, {
+      "name": "Paul Buser",
+      "email": "pubser"
+    }, {
+      "name": "Samantha Mater",
+      "email": "smater"
+    }, {
+      "name": "Shiying Zheng",
+      "email": "szheng"
+    }]
+  }, {
+    "year": "2013-2014",
+    "structured": false,
+    "members": [{
+      "name": "Eli Stine",
+      "email": "estine"
+    }, {
+      "name": "Peter Fogg",
+      "email": "pfogg"
+    }, {
+      "name": "Sarah Andrews",
+      "email": "sandrews"
+    }, {
+      "name": "Nathan Teetor",
+      "email": "nteetor"
+    }, {
+      "name": "Krista LaFentres",
+      "email": "klafentr"
+    }, {
+      "name": "Ethan Zimmerman",
+      "email": "ezimmerm"
+    }, {
+      "name": "Dan Barella",
+      "email": "dbarella"
+    }, {
+      "name": "Alex Cheney",
+      "email": "acheney"
+    }, {
+      "name": "Laura Watiker",
+      "email": "lwatiker"
+    }]
+  }, {
+    "year": "2012-2013",
+    "structured": true,
+    "members": [{
+      "role": "Senior Rep.",
+      "name": "Elizabeth Bennett"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Luke Lovett"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Whit Schorn"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Peter Fogg"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Sarah Andrews"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Nathan Teetor"
+    }, {
+      "role": "Laura Watiker",
+      "name": "lwatiker"
+    }]
+  }, {
+    "year": "2012-2013",
+    "structured": true,
+    "members": [{
+      "role": "Senior Rep.",
+      "name": "Elizabeth Bennett"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Luke Lovett"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Whit Schorn"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Sarah Andrews"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Peter Fogg"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Krista LaFentres"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Nathan Teetor"
+    }]
+  }, {
+    "year": "2011-2012",
+    "structured": true,
+    "members": [{
+      "role": "Senior Rep.",
+      "name": "Louisa Berger"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Bekah Blank"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Aaron Kanter"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Ike McCreery"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Whit Schorn"
+    }, {
+      "role": "Sophomore Rep.",
+      "name": "Simone Brodner"
+    }, {
+      "role": "Sophomore Rep.",
+      "name": "Shejia \"Julia\" Zhu"
+    }]
+  }, {
+    "year": "2010-2011",
+    "structured": true,
+    "members": [{
+      "role": "Junior Rep.",
+      "name": "Danny Spencer"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Garrett Robinson"
+    }, {
+      "role": "Sophomore Rep.",
+      "name": "Rebekah Blank"
+    }, {
+      "role": "Sophomore Rep.",
+      "name": "Zach Levine"
+    }, {
+      "role": "Freshman Rep.",
+      "name": "Siang Wu"
+    }]
+  }, {
+    "year": "2009-2010",
+    "structured": true,
+    "members": [{
+      "role": "Senior Rep. (Emer.)",
+      "name": "Nate Gephart"
+    }, {
+      "role": "Senior Rep. (Emer.)",
+      "name": "Michael Brooks"
+    }, {
+      "role": "Senior Rep. (Emer.)",
+      "name": "Katie Kuksenok"
+    }]
+  }, {
+    "year": "2008-2009",
+    "structured": true,
+    "members": [{
+      "role": "Senior Chair",
+      "name": "Ted Warner"
+    }, {
+      "role": "Fifth-Year Co-chair",
+      "name": "Rebecca Linick"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Tom Wilson"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Nate Gephart"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Michael Brooks"
+    }, {
+      "role": "Sophomore Rep.",
+      "name": "Katie Kuksenok"
+    }]
+  }, {
+    "year": "2007-2008",
+    "structured": true,
+    "members": [{
+      "role": "Senior Chair",
+      "name": "Nick Ferrara"
+    }, {
+      "role": "Senior Co-chair",
+      "name": "Ivan Davydov"
+    }, {
+      "role": "Junior Co-chair",
+      "name": "Ted Warner"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Naomi Goodman"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Scott Erickson"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Nick Hatt"
+    }, {
+      "role": "Spring Replacement",
+      "name": "Katie Kuksenok"
+    }]
+  }, {
+    "year": "2006-2007",
+    "structured": true,
+    "members": [{
+      "role": "Junior Chair",
+      "name": "Nick Ferrara"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Lisa Curtis"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Daniel Frishberg"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Nick Hatt"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Akshat Singhal"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Axis Sivitz"
+    }]
+  }, {
+    "year": "2005-2006",
+    "structured": true,
+    "members": [{
+      "role": "Fifth-Year Chair",
+      "name": "Joe Kimmel"
+    }, {
+      "role": "Senior Co-Chair",
+      "name": "Nathan Gerratt"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Gregory Engel"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Daniel Frishberg"
+    }, {
+      "role": "Underclassmen Rep.",
+      "name": "Nick Hatt"
+    }]
+  }, {
+    "year": "2004-2005",
+    "structured": true,
+    "members": [{
+      "role": "Senior Chair",
+      "name": "Joe Kimmel"
+    }, {
+      "role": "Senior Co-Chair",
+      "name": "Rebecca Ganetzky"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Chris Eatinger"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Ozlem Akcakoca"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Nat Pittman"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Nathan Gerratt"
+    }, {
+      "role": "Underclassmen Rep.",
+      "name": "Wesley John-Alder"
+    }, {
+      "role": "Underclassmen Rep.",
+      "name": "Arthur Zeyda"
+    }]
+  }, {
+    "year": "2003-2004",
+    "structured": true,
+    "members": [{
+      "role": "Senior Chair",
+      "name": "Erik Talvitie"
+    }, {
+      "role": "Senior Co-Chair",
+      "name": "Rebecca Ganetzky"
+    }, {
+      "role": "Spring Replacement",
+      "name": "David Adamson"
+    }, {
+      "role": "Senior Rep.",
+      "name": "David Adamson"
+    }, {
+      "role": "Spring Replacement",
+      "name": "Nat Pittman"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Piyush Rampuria"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Christopher Eatinger"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Ellen (Yi-Ming) Chai"
+    }, {
+      "role": "Underclassmen Rep.",
+      "name": "Nick Arioli"
+    }, {
+      "role": "Spring Replacement",
+      "name": "Nathan Gerratt"
+    }, {
+      "role": "Underclassmen Rep.",
+      "name": "Gregory Engel"
+    }, {
+      "role": "Spring Replacement",
+      "name": "Wesley John-Alder"
+    }]
+  }, {
+    "year": "2002-2003",
+    "structured": true,
+    "members": [{
+      "role": "Senior Chair",
+      "name": "Erik Talvitie"
+    }, {
+      "role": "Senior Co-Chair",
+      "name": "David Adamson"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Jed Davis"
+    }, {
+      "role": "Senior Rep.",
+      "name": "Lincoln Ritter"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Rebecca Ganetzky"
+    }, {
+      "role": "Junior Rep.",
+      "name": "Ellen (Yi-Ming) Chai"
+    }, {
+      "role": "Underclassmen Rep.",
+      "name": "Christopher Eatinger"
+    }, {
+      "role": "Underclassmen Rep.",
+      "name": "Joe Kimmel"
+    }]
+  }, {
+    "year": "2001-2002",
+    "structured": true,
+    "members": [{
+      "role": "",
+      "name": "Mike Shelton"
+    }, {
+      "role": "",
+      "name": "Gabe Carlton Barnes"
+    }]
+  }
+]
